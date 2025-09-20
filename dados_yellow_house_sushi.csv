@@ -1,0 +1,1501 @@
+id_pedido,data_pedido,hora_pedido,bairro_cliente,prato,quantidade,valor_unitario,tempo_espera_minutos
+1,2025-07-03,18:21,Parnamirim,Hot Roll,1,30.00,60
+2,2025-07-02,20:00,Graças,Yakisoba de Frango,1,110.00,49
+3,2025-07-04,18:48,Casa Amarela,Hot Roll,1,75.00,23
+4,2025-07-01,18:33,Parnamirim,Hot Roll,2,40.00,15
+5,2025-07-05,19:39,Graças,Combinado Especial,3,75.00,44
+6,2025-07-04,22:33,Parnamirim,Combinado de Salmão,1,35.00,55
+7,2025-07-03,20:12,Graças,Combinado Especial,1,40.00,41
+8,2025-07-05,23:17,Espinheiro,Temaki Salmão,1,75.00,44
+9,2025-07-05,21:51,Graças,Combinado de Salmão,1,35.00,30
+10,2025-07-03,19:25,Graças,Combinado Premium,1,35.00,41
+11,2025-07-03,20:20,Graças,Combinado de Salmão,2,40.00,60
+12,2025-07-04,19:51,Espinheiro,Combinado Especial,3,110.00,47
+13,2025-07-01,18:47,Graças,Yakisoba de Frango,1,30.00,36
+14,2025-07-05,23:07,Parnamirim,Yakisoba de Carne,1,85.00,44
+15,2025-07-05,23:59,Parnamirim,Hot Roll,1,30.00,21
+16,2025-07-05,20:59,Casa Forte,Hot Roll,1,85.00,24
+17,2025-07-03,21:30,Graças,Combinado de Salmão,1,30.00,51
+18,2025-07-04,23:12,Graças,Combinado de Salmão,2,110.00,25
+19,2025-07-02,22:06,Graças,Hot Roll,3,85.00,25
+20,2025-07-03,21:45,Espinheiro,Yakisoba de Frango,5,40.00,39
+21,2025-07-02,19:43,Casa Amarela,Temaki Salmão,1,85.00,58
+22,2025-07-01,23:47,Parnamirim,Yakisoba de Carne,1,40.00,33
+23,2025-07-04,21:16,Graças,Temaki Salmão,1,30.00,15
+24,2025-07-05,18:50,Parnamirim,Hot Roll,1,35.00,55
+25,2025-07-03,21:25,Parnamirim,Temaki Salmão,2,40.00,71
+26,2025-07-03,18:31,Graças,Temaki Salmão,5,75.00,48
+27,2025-07-05,23:17,Graças,Temaki Salmão,5,30.00,36
+28,2025-07-05,18:50,Casa Forte,Yakisoba de Frango,1,110.00,16
+29,2025-07-01,21:32,Casa Amarela,Temaki Camarão,2,25.00,43
+30,2025-07-04,23:21,Parnamirim,Combinado Especial,2,25.00,71
+31,2025-07-02,23:24,Casa Forte,Combinado de Salmão,3,35.00,45
+32,2025-07-03,20:44,Graças,Yakisoba de Frango,1,110.00,41
+33,2025-07-05,20:42,Casa Forte,Combinado Premium,4,40.00,58
+34,2025-07-03,19:07,Casa Forte,Temaki Salmão,1,75.00,42
+35,2025-07-01,21:22,Casa Forte,Combinado de Salmão,1,35.00,36
+36,2025-07-01,18:53,Casa Forte,Hot Roll,1,40.00,29
+37,2025-07-05,20:50,Parnamirim,Yakisoba de Frango,2,35.00,47
+38,2025-07-05,21:54,Casa Forte,Yakisoba de Frango,2,85.00,61
+39,2025-07-04,22:39,Casa Amarela,Combinado de Salmão,1,110.00,31
+40,2025-07-01,23:27,Casa Amarela,Yakisoba de Carne,1,25.00,69
+41,2025-07-03,18:00,Graças,Combinado Premium,1,40.00,50
+42,2025-07-05,19:36,Parnamirim,Temaki Salmão,1,35.00,18
+43,2025-07-05,20:47,Casa Amarela,Temaki Camarão,2,85.00,15
+44,2025-07-01,22:29,Casa Amarela,Combinado Premium,1,35.00,26
+45,2025-07-01,22:38,Espinheiro,Hot Roll,1,25.00,54
+46,2025-07-04,18:55,Casa Forte,Yakisoba de Frango,1,75.00,28
+47,2025-07-03,22:49,Casa Forte,Hot Roll,2,85.00,27
+48,2025-07-02,21:23,Casa Forte,Temaki Salmão,4,110.00,61
+49,2025-07-01,19:11,Parnamirim,Yakisoba de Carne,1,110.00,33
+50,2025-07-05,20:11,Casa Amarela,Combinado de Salmão,1,75.00,51
+51,2025-07-05,18:49,Casa Forte,Combinado Especial,2,25.00,38
+52,2025-07-01,22:57,Casa Forte,Hot Roll,1,110.00,20
+53,2025-07-02,23:24,Casa Forte,Temaki Camarão,1,40.00,61
+54,2025-07-01,23:34,Graças,Hot Roll,2,25.00,37
+55,2025-07-02,18:12,Graças,Hot Roll,1,85.00,58
+56,2025-07-01,23:12,Casa Forte,Combinado Especial,3,75.00,31
+57,2025-07-01,22:58,Parnamirim,Combinado de Salmão,2,110.00,20
+58,2025-07-03,18:34,Parnamirim,Yakisoba de Carne,3,75.00,36
+59,2025-07-05,21:12,Casa Amarela,Hot Roll,3,85.00,31
+60,2025-07-04,20:53,Parnamirim,Hot Roll,3,75.00,46
+61,2025-07-05,20:47,Parnamirim,Temaki Camarão,1,75.00,21
+62,2025-07-05,22:21,Espinheiro,Combinado de Salmão,1,110.00,35
+63,2025-07-05,21:23,Graças,Combinado Especial,5,75.00,24
+64,2025-07-05,20:23,Espinheiro,Hot Roll,4,40.00,21
+65,2025-07-02,22:54,Parnamirim,Combinado Especial,2,25.00,60
+66,2025-07-04,20:48,Espinheiro,Combinado Premium,1,85.00,33
+67,2025-07-05,23:48,Casa Amarela,Combinado Especial,2,25.00,34
+68,2025-07-05,19:31,Graças,Hot Roll,2,25.00,39
+69,2025-07-02,23:54,Parnamirim,Hot Roll,1,110.00,47
+70,2025-07-04,21:35,Graças,Hot Roll,1,35.00,31
+71,2025-07-01,18:04,Parnamirim,Combinado Premium,2,85.00,47
+72,2025-07-01,18:31,Casa Forte,Yakisoba de Carne,1,110.00,54
+73,2025-07-04,20:31,Graças,Combinado de Salmão,1,85.00,61
+74,2025-07-01,20:56,Espinheiro,Hot Roll,2,110.00,80
+75,2025-07-05,20:48,Casa Amarela,Hot Roll,1,40.00,29
+76,2025-07-04,20:28,Graças,Combinado de Salmão,2,75.00,28
+77,2025-07-03,23:09,Casa Amarela,Hot Roll,1,75.00,23
+78,2025-07-04,18:00,Parnamirim,Temaki Camarão,3,35.00,22
+79,2025-07-04,18:19,Casa Amarela,Temaki Salmão,1,110.00,48
+80,2025-07-05,22:59,Graças,Temaki Camarão,1,40.00,55
+81,2025-07-05,22:53,Casa Forte,Hot Roll,2,40.00,50
+82,2025-07-04,19:47,Graças,Combinado Especial,1,110.00,46
+83,2025-07-04,22:25,Casa Forte,Temaki Camarão,2,85.00,47
+84,2025-07-02,20:33,Graças,Yakisoba de Carne,1,30.00,63
+85,2025-07-03,20:14,Espinheiro,Hot Roll,1,110.00,51
+86,2025-07-04,20:31,Espinheiro,Yakisoba de Frango,4,25.00,39
+87,2025-07-02,20:06,Graças,Yakisoba de Carne,1,25.00,51
+88,2025-07-01,22:49,Graças,Combinado Especial,2,40.00,48
+89,2025-07-02,18:31,Espinheiro,Temaki Salmão,1,25.00,49
+90,2025-07-03,21:59,Casa Amarela,Yakisoba de Frango,1,30.00,42
+91,2025-07-03,23:03,Casa Forte,Temaki Camarão,1,85.00,31
+92,2025-07-02,18:50,Graças,Combinado de Salmão,2,35.00,63
+93,2025-07-03,20:54,Casa Amarela,Temaki Camarão,1,85.00,45
+94,2025-07-03,23:47,Graças,Yakisoba de Carne,4,25.00,34
+95,2025-07-05,21:21,Graças,Combinado Premium,1,30.00,40
+96,2025-07-04,19:04,Casa Amarela,Temaki Camarão,3,35.00,68
+97,2025-07-03,18:34,Graças,Hot Roll,3,30.00,53
+98,2025-07-03,20:43,Parnamirim,Combinado de Salmão,1,110.00,25
+99,2025-07-01,23:16,Graças,Hot Roll,2,30.00,29
+100,2025-07-03,22:22,Espinheiro,Combinado Especial,2,35.00,49
+101,2025-07-03,21:47,Parnamirim,Combinado de Salmão,1,40.00,50
+102,2025-07-02,18:38,Graças,Temaki Salmão,1,110.00,41
+103,2025-07-04,22:05,Casa Forte,Hot Roll,3,25.00,43
+104,2025-07-01,19:02,Casa Amarela,Yakisoba de Carne,1,25.00,53
+105,2025-07-01,21:18,Casa Forte,Combinado de Salmão,1,40.00,53
+106,2025-07-01,18:27,Parnamirim,Combinado Especial,1,75.00,15
+107,2025-07-05,19:23,Espinheiro,Combinado de Salmão,5,75.00,53
+108,2025-07-04,18:32,Graças,Combinado Especial,3,85.00,53
+109,2025-07-04,18:11,Casa Forte,Temaki Salmão,2,85.00,46
+110,2025-07-01,21:04,Espinheiro,Hot Roll,3,25.00,69
+111,2025-07-05,19:03,Graças,Hot Roll,2,40.00,43
+112,2025-07-04,19:42,Casa Forte,Temaki Salmão,2,25.00,35
+113,2025-07-04,22:16,Casa Forte,Hot Roll,1,35.00,64
+114,2025-07-02,22:50,Graças,Combinado Premium,4,85.00,34
+115,2025-07-01,21:51,Graças,Yakisoba de Carne,1,40.00,30
+116,2025-07-03,22:17,Graças,Hot Roll,5,85.00,37
+117,2025-07-04,23:36,Casa Amarela,Yakisoba de Frango,1,40.00,33
+118,2025-07-01,22:17,Graças,Combinado de Salmão,1,75.00,18
+119,2025-07-05,18:12,Casa Forte,Combinado Especial,1,40.00,51
+120,2025-07-01,21:58,Casa Forte,Combinado Especial,1,75.00,18
+121,2025-07-05,19:11,Casa Forte,Temaki Salmão,1,110.00,71
+122,2025-07-02,22:18,Espinheiro,Temaki Camarão,3,35.00,34
+123,2025-07-01,20:13,Casa Amarela,Temaki Salmão,3,25.00,44
+124,2025-07-01,21:33,Graças,Yakisoba de Carne,2,75.00,53
+125,2025-07-01,23:57,Parnamirim,Yakisoba de Frango,2,25.00,35
+126,2025-07-03,21:49,Graças,Combinado de Salmão,1,85.00,38
+127,2025-07-02,19:12,Casa Forte,Combinado Premium,1,30.00,29
+128,2025-07-03,20:32,Espinheiro,Yakisoba de Frango,1,25.00,15
+129,2025-07-02,20:40,Graças,Hot Roll,1,30.00,61
+130,2025-07-02,21:04,Casa Forte,Combinado Premium,1,75.00,66
+131,2025-07-03,20:07,Parnamirim,Temaki Salmão,5,35.00,49
+132,2025-07-03,22:41,Parnamirim,Yakisoba de Frango,1,40.00,21
+133,2025-07-01,20:42,Casa Forte,Temaki Salmão,1,85.00,54
+134,2025-07-03,22:30,Graças,Temaki Salmão,1,110.00,56
+135,2025-07-05,18:15,Casa Amarela,Combinado de Salmão,2,85.00,32
+136,2025-07-05,21:56,Espinheiro,Hot Roll,1,40.00,24
+137,2025-07-05,18:56,Graças,Combinado de Salmão,2,35.00,37
+138,2025-07-02,23:57,Graças,Temaki Camarão,4,30.00,19
+139,2025-07-04,21:12,Graças,Hot Roll,3,25.00,32
+140,2025-07-02,18:02,Graças,Temaki Salmão,1,35.00,50
+141,2025-07-01,20:23,Casa Forte,Hot Roll,3,40.00,40
+142,2025-07-04,23:14,Graças,Combinado Premium,1,30.00,35
+143,2025-07-05,23:14,Casa Amarela,Temaki Salmão,1,85.00,90
+144,2025-07-03,21:48,Casa Forte,Combinado de Salmão,1,35.00,51
+145,2025-07-04,21:05,Casa Amarela,Hot Roll,1,40.00,24
+146,2025-07-05,23:35,Espinheiro,Hot Roll,2,40.00,51
+147,2025-07-01,18:59,Espinheiro,Yakisoba de Frango,1,85.00,34
+148,2025-07-01,19:12,Parnamirim,Combinado Premium,2,75.00,53
+149,2025-07-05,19:25,Espinheiro,Combinado de Salmão,2,85.00,77
+150,2025-07-01,19:29,Espinheiro,Temaki Salmão,3,35.00,33
+151,2025-07-04,18:44,Graças,Yakisoba de Frango,3,35.00,67
+152,2025-07-03,23:41,Espinheiro,Hot Roll,1,85.00,19
+153,2025-07-03,22:16,Graças,Hot Roll,1,30.00,31
+154,2025-07-05,19:30,Casa Forte,Temaki Salmão,3,75.00,34
+155,2025-07-05,23:24,Parnamirim,Temaki Camarão,1,40.00,70
+156,2025-07-03,23:57,Casa Amarela,Combinado de Salmão,4,110.00,29
+157,2025-07-05,19:35,Casa Forte,Hot Roll,2,30.00,27
+158,2025-07-04,23:49,Casa Forte,Combinado Especial,1,25.00,29
+159,2025-07-05,21:52,Casa Forte,Combinado Especial,1,75.00,24
+160,2025-07-02,21:25,Casa Amarela,Combinado de Salmão,3,25.00,32
+161,2025-07-02,19:25,Parnamirim,Hot Roll,3,35.00,15
+162,2025-07-03,19:39,Parnamirim,Combinado de Salmão,2,75.00,39
+163,2025-07-03,19:10,Graças,Combinado de Salmão,3,110.00,53
+164,2025-07-05,20:00,Casa Forte,Hot Roll,1,30.00,36
+165,2025-07-01,23:44,Parnamirim,Hot Roll,2,85.00,41
+166,2025-07-05,20:16,Parnamirim,Temaki Salmão,1,75.00,37
+167,2025-07-05,21:08,Graças,Combinado de Salmão,1,75.00,51
+168,2025-07-01,21:46,Graças,Hot Roll,4,25.00,31
+169,2025-07-02,23:31,Graças,Combinado de Salmão,1,85.00,54
+170,2025-07-01,20:55,Parnamirim,Yakisoba de Frango,3,75.00,34
+171,2025-07-02,19:55,Espinheiro,Yakisoba de Frango,2,75.00,66
+172,2025-07-04,22:21,Parnamirim,Combinado Especial,2,110.00,65
+173,2025-07-04,23:13,Casa Forte,Hot Roll,1,85.00,22
+174,2025-07-05,23:40,Parnamirim,Combinado Especial,4,110.00,42
+175,2025-07-04,21:20,Casa Amarela,Temaki Salmão,1,30.00,20
+176,2025-07-02,19:17,Espinheiro,Combinado de Salmão,1,35.00,50
+177,2025-07-01,23:20,Casa Amarela,Combinado de Salmão,3,85.00,49
+178,2025-07-01,23:57,Casa Forte,Hot Roll,2,35.00,30
+179,2025-07-01,21:32,Casa Amarela,Temaki Camarão,3,40.00,46
+180,2025-07-03,18:58,Graças,Temaki Salmão,3,30.00,20
+181,2025-07-03,23:31,Casa Forte,Combinado Especial,3,25.00,35
+182,2025-07-01,18:25,Casa Amarela,Hot Roll,2,25.00,15
+183,2025-07-05,20:00,Parnamirim,Hot Roll,1,30.00,26
+184,2025-07-04,22:02,Graças,Combinado de Salmão,1,30.00,57
+185,2025-07-01,18:56,Graças,Hot Roll,2,40.00,52
+186,2025-07-01,20:23,Graças,Combinado Especial,2,75.00,43
+187,2025-07-02,22:40,Casa Forte,Hot Roll,1,35.00,15
+188,2025-07-02,23:38,Casa Forte,Combinado Especial,2,75.00,53
+189,2025-07-01,22:48,Espinheiro,Temaki Salmão,3,85.00,62
+190,2025-07-02,18:24,Graças,Combinado de Salmão,4,25.00,23
+191,2025-07-04,22:01,Espinheiro,Combinado de Salmão,1,25.00,42
+192,2025-07-05,21:46,Casa Forte,Combinado Premium,1,25.00,22
+193,2025-07-04,19:02,Parnamirim,Combinado Especial,2,30.00,32
+194,2025-07-04,18:18,Graças,Combinado Especial,1,25.00,52
+195,2025-07-02,22:50,Graças,Yakisoba de Carne,1,30.00,48
+196,2025-07-04,23:35,Casa Forte,Hot Roll,4,30.00,51
+197,2025-07-05,20:59,Casa Amarela,Combinado de Salmão,1,25.00,29
+198,2025-07-03,18:15,Casa Amarela,Combinado de Salmão,1,110.00,47
+199,2025-07-02,23:58,Casa Forte,Temaki Salmão,2,75.00,55
+200,2025-07-04,18:02,Casa Forte,Yakisoba de Carne,3,25.00,48
+201,2025-07-02,20:46,Casa Forte,Combinado de Salmão,2,75.00,57
+202,2025-07-05,19:16,Parnamirim,Hot Roll,1,35.00,23
+203,2025-07-05,22:02,Parnamirim,Combinado Premium,3,40.00,52
+204,2025-07-01,22:40,Parnamirim,Combinado de Salmão,4,30.00,52
+205,2025-07-05,23:40,Espinheiro,Combinado de Salmão,4,35.00,89
+206,2025-07-01,20:19,Casa Forte,Temaki Salmão,2,110.00,57
+207,2025-07-03,21:07,Casa Forte,Temaki Salmão,2,85.00,59
+208,2025-07-02,21:19,Graças,Combinado de Salmão,2,25.00,35
+209,2025-07-01,23:07,Casa Forte,Yakisoba de Frango,1,30.00,36
+210,2025-07-04,23:00,Graças,Combinado Especial,2,40.00,57
+211,2025-07-02,19:06,Parnamirim,Hot Roll,3,75.00,40
+212,2025-07-05,18:47,Parnamirim,Temaki Camarão,1,75.00,59
+213,2025-07-01,20:21,Graças,Combinado de Salmão,5,85.00,46
+214,2025-07-05,22:41,Graças,Hot Roll,1,30.00,40
+215,2025-07-03,21:44,Casa Amarela,Combinado de Salmão,1,110.00,68
+216,2025-07-01,22:57,Casa Amarela,Temaki Camarão,1,30.00,21
+217,2025-07-03,23:59,Espinheiro,Yakisoba de Carne,1,35.00,66
+218,2025-07-04,22:25,Casa Forte,Hot Roll,2,35.00,42
+219,2025-07-02,22:48,Parnamirim,Yakisoba de Frango,3,40.00,15
+220,2025-07-05,20:20,Parnamirim,Hot Roll,1,85.00,48
+221,2025-07-04,19:24,Graças,Temaki Salmão,1,25.00,59
+222,2025-07-01,20:01,Casa Forte,Hot Roll,2,25.00,32
+223,2025-07-01,20:18,Casa Forte,Temaki Salmão,1,85.00,43
+224,2025-07-02,20:50,Casa Forte,Yakisoba de Frango,1,75.00,44
+225,2025-07-05,22:57,Casa Forte,Combinado de Salmão,1,40.00,47
+226,2025-07-05,22:51,Graças,Temaki Salmão,2,110.00,66
+227,2025-07-02,23:32,Casa Amarela,Temaki Camarão,1,110.00,24
+228,2025-07-05,21:32,Casa Amarela,Combinado Especial,2,30.00,15
+229,2025-07-05,20:04,Casa Forte,Temaki Salmão,3,85.00,51
+230,2025-07-04,20:30,Casa Amarela,Hot Roll,4,75.00,81
+231,2025-07-03,21:46,Graças,Combinado de Salmão,1,30.00,18
+232,2025-07-05,22:31,Parnamirim,Temaki Salmão,1,75.00,60
+233,2025-07-03,20:12,Graças,Temaki Salmão,3,110.00,24
+234,2025-07-05,20:01,Casa Amarela,Yakisoba de Frango,1,85.00,27
+235,2025-07-03,23:49,Casa Forte,Temaki Salmão,1,25.00,53
+236,2025-07-01,23:26,Casa Forte,Hot Roll,3,110.00,15
+237,2025-07-01,18:40,Graças,Temaki Salmão,3,40.00,74
+238,2025-07-03,20:18,Graças,Combinado Especial,1,25.00,32
+239,2025-07-03,19:02,Casa Forte,Combinado de Salmão,1,30.00,43
+240,2025-07-05,21:38,Parnamirim,Temaki Camarão,1,40.00,15
+241,2025-07-02,21:12,Casa Amarela,Combinado Especial,1,40.00,31
+242,2025-07-05,19:38,Casa Amarela,Temaki Camarão,1,75.00,31
+243,2025-07-02,19:38,Graças,Combinado de Salmão,1,110.00,30
+244,2025-07-05,23:15,Casa Forte,Combinado Especial,1,75.00,30
+245,2025-07-04,19:39,Casa Forte,Hot Roll,1,40.00,36
+246,2025-07-05,21:13,Graças,Temaki Salmão,1,75.00,68
+247,2025-07-04,20:12,Graças,Temaki Salmão,1,30.00,44
+248,2025-07-04,20:44,Espinheiro,Hot Roll,2,110.00,37
+249,2025-07-05,19:21,Graças,Hot Roll,1,35.00,69
+250,2025-07-05,21:01,Casa Amarela,Combinado Especial,1,35.00,16
+251,2025-07-04,19:40,Graças,Hot Roll,1,75.00,52
+252,2025-07-03,22:29,Graças,Temaki Salmão,5,30.00,15
+253,2025-07-02,21:46,Casa Amarela,Temaki Salmão,2,85.00,52
+254,2025-07-01,20:11,Casa Amarela,Yakisoba de Frango,2,40.00,56
+255,2025-07-05,22:33,Casa Forte,Combinado Premium,1,75.00,31
+256,2025-07-04,23:53,Espinheiro,Combinado de Salmão,2,35.00,64
+257,2025-07-03,23:36,Casa Amarela,Hot Roll,1,25.00,15
+258,2025-07-03,23:19,Graças,Combinado Especial,1,25.00,33
+259,2025-07-03,20:21,Casa Amarela,Hot Roll,1,40.00,33
+260,2025-07-05,18:20,Parnamirim,Combinado Especial,1,35.00,24
+261,2025-07-02,23:49,Parnamirim,Combinado Premium,1,30.00,38
+262,2025-07-05,22:32,Casa Amarela,Hot Roll,1,40.00,34
+263,2025-07-02,22:56,Casa Amarela,Combinado de Salmão,3,25.00,56
+264,2025-07-01,23:44,Graças,Temaki Camarão,3,30.00,33
+265,2025-07-03,19:28,Casa Forte,Combinado de Salmão,3,40.00,29
+266,2025-07-05,23:18,Parnamirim,Yakisoba de Frango,1,35.00,20
+267,2025-07-02,18:41,Graças,Combinado Especial,4,110.00,62
+268,2025-07-03,22:30,Casa Forte,Combinado Especial,3,30.00,60
+269,2025-07-03,20:12,Casa Forte,Combinado Especial,1,75.00,38
+270,2025-07-04,23:22,Casa Forte,Hot Roll,1,75.00,35
+271,2025-07-04,21:51,Graças,Combinado Especial,1,75.00,51
+272,2025-07-02,23:04,Graças,Combinado de Salmão,1,40.00,49
+273,2025-07-02,18:04,Casa Amarela,Temaki Salmão,1,25.00,22
+274,2025-07-02,19:53,Parnamirim,Hot Roll,1,30.00,58
+275,2025-07-01,23:03,Parnamirim,Combinado de Salmão,1,40.00,46
+276,2025-07-04,22:14,Graças,Hot Roll,2,110.00,25
+277,2025-07-01,21:47,Casa Forte,Combinado de Salmão,4,40.00,61
+278,2025-07-04,22:29,Graças,Yakisoba de Carne,1,35.00,47
+279,2025-07-03,19:45,Espinheiro,Temaki Camarão,1,85.00,24
+280,2025-07-03,19:14,Casa Forte,Hot Roll,4,25.00,55
+281,2025-07-04,23:19,Casa Amarela,Combinado Especial,3,25.00,37
+282,2025-07-04,19:04,Parnamirim,Temaki Camarão,1,30.00,36
+283,2025-07-05,21:49,Casa Forte,Temaki Salmão,2,40.00,38
+284,2025-07-03,20:06,Parnamirim,Temaki Salmão,2,110.00,43
+285,2025-07-03,22:39,Graças,Yakisoba de Frango,3,35.00,43
+286,2025-07-03,23:23,Graças,Combinado Premium,3,25.00,59
+287,2025-07-02,21:42,Parnamirim,Temaki Salmão,2,25.00,56
+288,2025-07-05,19:08,Casa Forte,Hot Roll,1,85.00,45
+289,2025-07-01,23:44,Espinheiro,Hot Roll,1,40.00,26
+290,2025-07-02,18:17,Graças,Combinado de Salmão,4,75.00,23
+291,2025-07-02,18:09,Graças,Temaki Salmão,3,35.00,24
+292,2025-07-01,18:00,Casa Amarela,Yakisoba de Carne,1,110.00,25
+293,2025-07-03,23:20,Graças,Hot Roll,2,35.00,58
+294,2025-07-04,21:59,Graças,Yakisoba de Carne,2,25.00,48
+295,2025-07-02,18:19,Parnamirim,Temaki Salmão,1,25.00,24
+296,2025-07-02,20:20,Espinheiro,Combinado Especial,4,30.00,48
+297,2025-07-01,20:15,Casa Forte,Hot Roll,1,75.00,19
+298,2025-07-04,22:35,Graças,Yakisoba de Carne,1,25.00,48
+299,2025-07-02,19:24,Graças,Combinado Especial,2,110.00,35
+300,2025-07-02,21:17,Parnamirim,Yakisoba de Frango,1,35.00,46
+301,2025-07-03,21:25,Graças,Combinado Especial,3,85.00,37
+302,2025-07-05,19:18,Espinheiro,Hot Roll,2,25.00,55
+303,2025-07-04,22:40,Casa Forte,Combinado Premium,1,30.00,48
+304,2025-07-02,21:25,Casa Amarela,Combinado Premium,2,75.00,29
+305,2025-07-02,21:01,Espinheiro,Temaki Salmão,3,85.00,70
+306,2025-07-03,20:33,Graças,Combinado Especial,5,40.00,70
+307,2025-07-03,18:21,Parnamirim,Temaki Salmão,3,85.00,30
+308,2025-07-01,19:41,Parnamirim,Temaki Camarão,1,35.00,15
+309,2025-07-02,18:22,Parnamirim,Combinado Especial,1,85.00,50
+310,2025-07-04,22:48,Espinheiro,Hot Roll,5,110.00,53
+311,2025-07-03,18:19,Parnamirim,Yakisoba de Frango,1,85.00,51
+312,2025-07-04,23:26,Graças,Temaki Camarão,1,35.00,46
+313,2025-07-01,22:43,Graças,Hot Roll,1,35.00,41
+314,2025-07-03,22:29,Casa Amarela,Yakisoba de Frango,1,40.00,29
+315,2025-07-01,21:45,Casa Amarela,Temaki Salmão,3,40.00,53
+316,2025-07-05,21:47,Casa Forte,Combinado de Salmão,2,75.00,19
+317,2025-07-05,18:51,Casa Forte,Combinado Premium,1,40.00,22
+318,2025-07-01,19:34,Casa Forte,Combinado Especial,2,35.00,59
+319,2025-07-02,18:07,Espinheiro,Temaki Salmão,1,30.00,44
+320,2025-07-01,21:24,Parnamirim,Combinado Especial,2,110.00,15
+321,2025-07-03,18:19,Espinheiro,Combinado Especial,1,40.00,50
+322,2025-07-01,23:10,Graças,Combinado de Salmão,5,35.00,32
+323,2025-07-03,19:04,Graças,Combinado de Salmão,1,25.00,31
+324,2025-07-03,23:50,Casa Forte,Combinado Especial,1,110.00,39
+325,2025-07-01,22:19,Graças,Combinado Premium,7,110.00,19
+326,2025-07-05,20:56,Casa Amarela,Combinado Especial,1,35.00,42
+327,2025-07-04,19:10,Casa Forte,Combinado Especial,3,25.00,34
+328,2025-07-04,20:51,Graças,Hot Roll,2,35.00,15
+329,2025-07-04,22:19,Casa Forte,Combinado de Salmão,4,40.00,32
+330,2025-07-03,23:53,Casa Forte,Hot Roll,1,110.00,15
+331,2025-07-04,18:27,Casa Forte,Combinado Especial,1,110.00,33
+332,2025-07-03,20:23,Espinheiro,Hot Roll,1,110.00,35
+333,2025-07-04,23:28,Parnamirim,Hot Roll,2,85.00,47
+334,2025-07-04,20:42,Espinheiro,Yakisoba de Carne,3,40.00,33
+335,2025-07-01,23:58,Parnamirim,Combinado Premium,1,25.00,54
+336,2025-07-03,19:33,Casa Amarela,Temaki Camarão,1,75.00,52
+337,2025-07-03,19:47,Casa Forte,Yakisoba de Frango,1,25.00,44
+338,2025-07-04,22:11,Graças,Combinado Especial,1,30.00,15
+339,2025-07-03,21:48,Casa Forte,Temaki Camarão,1,75.00,26
+340,2025-07-01,23:45,Graças,Combinado Especial,3,40.00,52
+341,2025-07-02,18:48,Graças,Hot Roll,2,110.00,22
+342,2025-07-05,19:49,Graças,Hot Roll,2,85.00,31
+343,2025-07-05,21:16,Espinheiro,Hot Roll,2,110.00,57
+344,2025-07-02,21:53,Graças,Combinado de Salmão,1,75.00,38
+345,2025-07-04,20:33,Espinheiro,Yakisoba de Carne,4,75.00,62
+346,2025-07-03,22:39,Casa Forte,Combinado Premium,1,35.00,61
+347,2025-07-04,19:55,Casa Amarela,Yakisoba de Carne,1,30.00,64
+348,2025-07-02,23:14,Graças,Hot Roll,1,75.00,15
+349,2025-07-02,21:41,Casa Forte,Combinado Especial,1,25.00,60
+350,2025-07-02,19:55,Casa Forte,Combinado Premium,1,110.00,31
+351,2025-07-03,22:17,Graças,Temaki Camarão,2,110.00,40
+352,2025-07-03,18:41,Casa Amarela,Hot Roll,2,75.00,36
+353,2025-07-04,23:22,Casa Amarela,Temaki Camarão,2,85.00,65
+354,2025-07-05,18:42,Parnamirim,Yakisoba de Frango,2,35.00,40
+355,2025-07-03,20:39,Graças,Combinado Premium,3,75.00,39
+356,2025-07-04,21:18,Parnamirim,Combinado de Salmão,1,30.00,39
+357,2025-07-05,21:29,Parnamirim,Combinado de Salmão,5,75.00,30
+358,2025-07-05,19:00,Graças,Combinado Premium,1,85.00,30
+359,2025-07-01,20:14,Graças,Hot Roll,1,85.00,55
+360,2025-07-05,22:49,Casa Forte,Yakisoba de Carne,2,30.00,39
+361,2025-07-04,20:20,Graças,Combinado de Salmão,1,30.00,30
+362,2025-07-01,19:36,Casa Forte,Temaki Salmão,3,75.00,26
+363,2025-07-02,22:02,Graças,Combinado de Salmão,1,35.00,72
+364,2025-07-02,21:12,Casa Amarela,Hot Roll,1,30.00,33
+365,2025-07-04,21:17,Casa Forte,Combinado Especial,3,85.00,45
+366,2025-07-05,19:15,Casa Forte,Hot Roll,1,35.00,52
+367,2025-07-03,23:09,Casa Forte,Yakisoba de Frango,2,25.00,52
+368,2025-07-05,18:43,Casa Forte,Combinado Premium,4,25.00,40
+369,2025-07-04,23:47,Espinheiro,Temaki Camarão,1,85.00,24
+370,2025-07-01,22:58,Parnamirim,Yakisoba de Carne,1,110.00,44
+371,2025-07-03,20:20,Casa Amarela,Temaki Salmão,2,30.00,52
+372,2025-07-01,22:26,Casa Amarela,Temaki Salmão,1,85.00,39
+373,2025-07-02,21:47,Casa Amarela,Combinado Premium,3,85.00,32
+374,2025-07-05,21:13,Casa Amarela,Combinado Premium,1,75.00,38
+375,2025-07-03,19:44,Parnamirim,Yakisoba de Carne,2,110.00,45
+376,2025-07-01,19:41,Graças,Yakisoba de Frango,1,40.00,21
+377,2025-07-03,18:40,Casa Amarela,Combinado de Salmão,1,85.00,52
+378,2025-07-03,23:33,Casa Forte,Temaki Salmão,1,75.00,37
+379,2025-07-03,19:15,Parnamirim,Hot Roll,1,110.00,15
+380,2025-07-02,19:23,Parnamirim,Combinado Premium,3,85.00,53
+381,2025-07-02,21:00,Casa Amarela,Combinado de Salmão,4,35.00,64
+382,2025-07-02,19:46,Casa Amarela,Combinado de Salmão,2,75.00,47
+383,2025-07-05,18:50,Parnamirim,Combinado de Salmão,2,85.00,27
+384,2025-07-01,18:14,Graças,Hot Roll,2,85.00,39
+385,2025-07-04,20:06,Espinheiro,Combinado de Salmão,2,110.00,40
+386,2025-07-03,23:09,Parnamirim,Combinado de Salmão,4,35.00,18
+387,2025-07-03,19:30,Espinheiro,Temaki Salmão,1,25.00,37
+388,2025-07-03,23:46,Casa Forte,Combinado Especial,3,110.00,66
+389,2025-07-04,23:07,Parnamirim,Combinado de Salmão,1,25.00,47
+390,2025-07-02,20:02,Casa Forte,Temaki Salmão,3,30.00,41
+391,2025-07-01,21:21,Casa Forte,Hot Roll,3,30.00,55
+392,2025-07-05,21:20,Parnamirim,Combinado de Salmão,2,110.00,55
+393,2025-07-04,23:52,Espinheiro,Hot Roll,3,30.00,19
+394,2025-07-04,22:08,Parnamirim,Yakisoba de Carne,1,25.00,60
+395,2025-07-03,20:49,Parnamirim,Yakisoba de Carne,1,40.00,56
+396,2025-07-05,23:22,Casa Amarela,Temaki Salmão,1,30.00,21
+397,2025-07-04,20:14,Casa Forte,Temaki Salmão,1,85.00,33
+398,2025-07-02,18:55,Graças,Hot Roll,1,40.00,59
+399,2025-07-01,22:09,Parnamirim,Temaki Salmão,3,85.00,46
+400,2025-07-05,19:49,Casa Forte,Temaki Salmão,2,35.00,39
+401,2025-07-03,19:42,Graças,Temaki Salmão,2,40.00,39
+402,2025-07-04,19:22,Casa Amarela,Combinado de Salmão,1,85.00,36
+403,2025-07-01,18:12,Casa Amarela,Combinado de Salmão,4,85.00,33
+404,2025-07-03,20:20,Graças,Combinado Premium,1,85.00,28
+405,2025-07-04,22:39,Graças,Temaki Salmão,2,110.00,48
+406,2025-07-02,23:03,Graças,Temaki Camarão,1,25.00,82
+407,2025-07-05,19:22,Graças,Combinado Premium,1,30.00,48
+408,2025-07-04,19:21,Casa Forte,Temaki Salmão,1,85.00,64
+409,2025-07-05,19:32,Espinheiro,Hot Roll,1,40.00,47
+410,2025-07-05,22:04,Casa Forte,Hot Roll,1,40.00,32
+411,2025-07-02,22:47,Parnamirim,Temaki Camarão,2,35.00,45
+412,2025-07-01,22:50,Parnamirim,Combinado Especial,3,30.00,15
+413,2025-07-05,18:32,Casa Forte,Combinado Especial,1,35.00,15
+414,2025-07-05,18:52,Casa Forte,Hot Roll,1,110.00,26
+415,2025-07-01,23:49,Casa Forte,Yakisoba de Frango,2,35.00,34
+416,2025-07-02,23:16,Casa Forte,Hot Roll,2,25.00,35
+417,2025-07-02,20:50,Casa Forte,Combinado de Salmão,3,75.00,46
+418,2025-07-05,23:20,Parnamirim,Yakisoba de Carne,2,30.00,28
+419,2025-07-04,19:06,Graças,Hot Roll,1,25.00,30
+420,2025-07-03,18:47,Graças,Combinado de Salmão,1,25.00,18
+421,2025-07-05,20:17,Casa Forte,Yakisoba de Carne,1,35.00,36
+422,2025-07-02,22:50,Graças,Temaki Camarão,1,110.00,15
+423,2025-07-04,22:46,Espinheiro,Hot Roll,3,35.00,21
+424,2025-07-05,19:56,Graças,Hot Roll,1,75.00,26
+425,2025-07-04,22:12,Parnamirim,Temaki Salmão,2,25.00,29
+426,2025-07-04,19:12,Graças,Yakisoba de Frango,3,75.00,47
+427,2025-07-01,22:20,Graças,Combinado de Salmão,1,30.00,35
+428,2025-07-05,19:46,Graças,Hot Roll,3,35.00,15
+429,2025-07-05,22:17,Casa Forte,Yakisoba de Frango,2,110.00,67
+430,2025-07-05,19:56,Graças,Hot Roll,2,85.00,39
+431,2025-07-01,23:38,Casa Forte,Yakisoba de Frango,1,35.00,20
+432,2025-07-03,23:24,Casa Forte,Hot Roll,1,85.00,32
+433,2025-07-04,19:10,Espinheiro,Combinado Premium,2,75.00,69
+434,2025-07-03,19:04,Espinheiro,Combinado Especial,1,25.00,16
+435,2025-07-05,20:29,Espinheiro,Hot Roll,2,75.00,18
+436,2025-07-02,22:21,Casa Forte,Temaki Salmão,3,110.00,28
+437,2025-07-02,21:37,Parnamirim,Combinado Premium,1,40.00,54
+438,2025-07-05,21:51,Casa Forte,Temaki Camarão,4,85.00,29
+439,2025-07-04,18:45,Casa Forte,Yakisoba de Carne,2,25.00,15
+440,2025-07-05,22:19,Parnamirim,Temaki Salmão,3,85.00,15
+441,2025-07-03,18:36,Casa Amarela,Combinado de Salmão,1,75.00,43
+442,2025-07-01,18:44,Parnamirim,Temaki Salmão,1,110.00,50
+443,2025-07-04,23:00,Espinheiro,Combinado Premium,1,25.00,32
+444,2025-07-05,23:19,Casa Amarela,Yakisoba de Frango,1,40.00,15
+445,2025-07-01,23:35,Parnamirim,Yakisoba de Frango,4,85.00,29
+446,2025-07-02,23:29,Casa Forte,Temaki Camarão,3,110.00,31
+447,2025-07-02,19:20,Casa Forte,Hot Roll,1,110.00,15
+448,2025-07-05,19:15,Graças,Temaki Salmão,1,40.00,53
+449,2025-07-04,19:35,Casa Amarela,Combinado de Salmão,1,110.00,40
+450,2025-07-01,23:25,Graças,Combinado Especial,2,75.00,25
+451,2025-07-04,21:32,Graças,Hot Roll,3,35.00,36
+452,2025-07-01,23:59,Graças,Hot Roll,4,40.00,37
+453,2025-07-05,22:54,Parnamirim,Yakisoba de Frango,1,110.00,15
+454,2025-07-04,21:34,Graças,Hot Roll,1,85.00,28
+455,2025-07-05,20:05,Graças,Combinado de Salmão,1,85.00,34
+456,2025-07-03,21:12,Casa Amarela,Combinado Premium,1,110.00,32
+457,2025-07-01,22:18,Casa Forte,Combinado de Salmão,1,85.00,25
+458,2025-07-04,18:37,Parnamirim,Temaki Camarão,4,40.00,50
+459,2025-07-02,21:20,Casa Amarela,Combinado de Salmão,3,75.00,44
+460,2025-07-01,19:15,Parnamirim,Hot Roll,2,85.00,36
+461,2025-07-03,19:07,Casa Amarela,Combinado de Salmão,1,110.00,20
+462,2025-07-05,20:09,Casa Forte,Hot Roll,1,30.00,28
+463,2025-07-04,22:56,Parnamirim,Temaki Salmão,3,35.00,52
+464,2025-07-03,22:09,Casa Forte,Combinado de Salmão,2,35.00,74
+465,2025-07-04,22:40,Graças,Hot Roll,1,75.00,15
+466,2025-07-04,23:52,Casa Forte,Yakisoba de Carne,1,110.00,18
+467,2025-07-02,18:25,Casa Amarela,Yakisoba de Frango,1,35.00,15
+468,2025-07-01,18:36,Parnamirim,Yakisoba de Frango,1,110.00,32
+469,2025-07-04,18:14,Casa Amarela,Hot Roll,4,40.00,46
+470,2025-07-02,19:21,Graças,Yakisoba de Carne,1,30.00,56
+471,2025-07-05,22:16,Graças,Hot Roll,1,75.00,19
+472,2025-07-05,22:24,Espinheiro,Hot Roll,1,40.00,48
+473,2025-07-01,23:02,Parnamirim,Combinado Especial,1,110.00,16
+474,2025-07-01,18:34,Graças,Yakisoba de Frango,1,85.00,62
+475,2025-07-02,21:16,Casa Forte,Combinado de Salmão,1,40.00,52
+476,2025-07-05,18:19,Casa Forte,Temaki Camarão,4,110.00,52
+477,2025-07-05,20:51,Casa Forte,Yakisoba de Frango,1,35.00,24
+478,2025-07-02,18:13,Casa Amarela,Hot Roll,1,85.00,29
+479,2025-07-04,23:59,Casa Forte,Combinado de Salmão,5,75.00,35
+480,2025-07-01,19:48,Casa Forte,Temaki Salmão,2,110.00,31
+481,2025-07-04,20:30,Graças,Hot Roll,4,35.00,34
+482,2025-07-02,23:50,Parnamirim,Combinado Especial,1,110.00,24
+483,2025-07-05,19:49,Casa Amarela,Yakisoba de Frango,1,40.00,44
+484,2025-07-03,23:44,Casa Amarela,Hot Roll,1,30.00,37
+485,2025-07-04,19:14,Casa Forte,Yakisoba de Frango,2,25.00,22
+486,2025-07-04,23:30,Parnamirim,Temaki Salmão,1,75.00,15
+487,2025-07-05,22:02,Parnamirim,Temaki Camarão,1,110.00,28
+488,2025-07-02,19:40,Graças,Temaki Salmão,1,75.00,37
+489,2025-07-04,23:30,Parnamirim,Yakisoba de Carne,1,85.00,51
+490,2025-07-03,23:39,Casa Forte,Yakisoba de Carne,4,110.00,32
+491,2025-07-03,23:41,Casa Amarela,Combinado Especial,1,25.00,54
+492,2025-07-02,20:07,Casa Forte,Hot Roll,2,75.00,37
+493,2025-07-05,21:30,Parnamirim,Temaki Salmão,2,30.00,45
+494,2025-07-03,20:08,Espinheiro,Yakisoba de Frango,1,35.00,33
+495,2025-07-01,23:14,Parnamirim,Temaki Salmão,2,35.00,20
+496,2025-07-05,21:36,Casa Forte,Yakisoba de Carne,1,75.00,46
+497,2025-07-04,21:41,Casa Amarela,Yakisoba de Carne,1,35.00,60
+498,2025-07-01,21:24,Graças,Combinado Especial,2,25.00,42
+499,2025-07-05,20:24,Parnamirim,Temaki Salmão,3,25.00,15
+500,2025-07-01,22:06,Casa Amarela,Combinado de Salmão,2,40.00,38
+501,2025-07-03,20:29,Parnamirim,Yakisoba de Frango,3,25.00,51
+502,2025-07-05,23:57,Casa Amarela,Temaki Salmão,1,85.00,52
+503,2025-07-03,23:56,Graças,Temaki Salmão,1,75.00,46
+504,2025-07-03,21:55,Casa Forte,Hot Roll,1,30.00,30
+505,2025-07-01,20:45,Graças,Yakisoba de Frango,1,35.00,37
+506,2025-07-01,18:40,Graças,Temaki Salmão,1,30.00,62
+507,2025-07-05,18:56,Graças,Yakisoba de Frango,1,75.00,25
+508,2025-07-03,23:30,Parnamirim,Yakisoba de Carne,1,85.00,54
+509,2025-07-03,22:58,Casa Amarela,Temaki Salmão,1,35.00,35
+510,2025-07-01,21:56,Casa Amarela,Combinado de Salmão,1,85.00,55
+511,2025-07-01,22:13,Parnamirim,Hot Roll,2,85.00,56
+512,2025-07-02,18:50,Graças,Combinado Especial,1,25.00,33
+513,2025-07-03,22:51,Espinheiro,Hot Roll,3,110.00,38
+514,2025-07-01,23:42,Parnamirim,Combinado de Salmão,1,75.00,15
+515,2025-07-04,19:27,Casa Forte,Combinado de Salmão,2,35.00,43
+516,2025-07-02,18:52,Casa Forte,Yakisoba de Carne,1,110.00,32
+517,2025-07-04,20:40,Casa Amarela,Yakisoba de Carne,3,35.00,31
+518,2025-07-03,21:28,Graças,Temaki Camarão,1,40.00,51
+519,2025-07-03,23:41,Casa Forte,Temaki Salmão,3,110.00,38
+520,2025-07-03,19:32,Graças,Yakisoba de Frango,1,40.00,29
+521,2025-07-01,18:21,Casa Forte,Hot Roll,2,75.00,48
+522,2025-07-03,19:45,Casa Forte,Combinado de Salmão,1,75.00,32
+523,2025-07-05,23:25,Casa Amarela,Combinado Especial,2,35.00,29
+524,2025-07-02,21:57,Graças,Combinado Premium,2,85.00,42
+525,2025-07-02,21:04,Graças,Hot Roll,2,25.00,25
+526,2025-07-02,21:25,Espinheiro,Combinado Premium,3,110.00,30
+527,2025-07-03,21:53,Casa Forte,Combinado de Salmão,2,75.00,33
+528,2025-07-04,22:20,Casa Amarela,Hot Roll,1,85.00,33
+529,2025-07-02,21:03,Graças,Temaki Salmão,1,40.00,15
+530,2025-07-03,19:28,Espinheiro,Combinado de Salmão,1,40.00,31
+531,2025-07-01,21:11,Casa Forte,Hot Roll,2,30.00,24
+532,2025-07-02,20:58,Graças,Hot Roll,1,30.00,39
+533,2025-07-05,18:47,Parnamirim,Hot Roll,1,75.00,31
+534,2025-07-05,19:25,Casa Amarela,Yakisoba de Frango,1,25.00,44
+535,2025-07-03,21:14,Casa Amarela,Yakisoba de Carne,4,75.00,30
+536,2025-07-03,18:50,Casa Forte,Yakisoba de Frango,2,40.00,41
+537,2025-07-04,19:52,Casa Forte,Yakisoba de Carne,1,30.00,28
+538,2025-07-04,21:02,Graças,Temaki Salmão,1,85.00,31
+539,2025-07-04,22:34,Graças,Yakisoba de Carne,3,85.00,89
+540,2025-07-01,20:28,Casa Forte,Yakisoba de Carne,2,35.00,33
+541,2025-07-04,18:14,Parnamirim,Combinado de Salmão,2,30.00,35
+542,2025-07-04,23:29,Espinheiro,Yakisoba de Carne,3,40.00,46
+543,2025-07-01,21:48,Parnamirim,Temaki Salmão,1,35.00,49
+544,2025-07-02,21:22,Graças,Temaki Salmão,1,30.00,32
+545,2025-07-03,21:01,Parnamirim,Temaki Salmão,1,110.00,72
+546,2025-07-01,19:16,Parnamirim,Hot Roll,1,85.00,48
+547,2025-07-04,20:26,Parnamirim,Yakisoba de Carne,3,75.00,48
+548,2025-07-03,20:02,Parnamirim,Hot Roll,3,30.00,45
+549,2025-07-02,22:06,Graças,Combinado de Salmão,1,40.00,58
+550,2025-07-04,20:31,Graças,Yakisoba de Frango,1,30.00,58
+551,2025-07-01,21:43,Casa Forte,Yakisoba de Carne,2,110.00,35
+552,2025-07-05,22:11,Parnamirim,Temaki Salmão,2,30.00,33
+553,2025-07-04,22:07,Casa Forte,Combinado Premium,1,110.00,64
+554,2025-07-02,20:33,Espinheiro,Hot Roll,2,35.00,35
+555,2025-07-05,19:55,Casa Forte,Temaki Salmão,2,110.00,20
+556,2025-07-04,20:03,Graças,Combinado de Salmão,2,75.00,50
+557,2025-07-05,20:50,Casa Forte,Combinado Especial,1,110.00,38
+558,2025-07-05,22:34,Casa Forte,Yakisoba de Frango,1,30.00,47
+559,2025-07-04,23:25,Graças,Combinado de Salmão,3,35.00,66
+560,2025-07-03,18:25,Graças,Yakisoba de Frango,2,35.00,63
+561,2025-07-05,20:05,Graças,Yakisoba de Carne,2,40.00,44
+562,2025-07-02,18:35,Casa Forte,Temaki Camarão,3,75.00,28
+563,2025-07-05,21:39,Casa Forte,Temaki Camarão,1,25.00,36
+564,2025-07-05,23:42,Parnamirim,Temaki Salmão,3,40.00,30
+565,2025-07-05,18:51,Casa Forte,Combinado Especial,3,30.00,15
+566,2025-07-05,22:24,Graças,Combinado de Salmão,2,40.00,29
+567,2025-07-05,20:00,Casa Forte,Yakisoba de Carne,1,30.00,34
+568,2025-07-01,23:29,Parnamirim,Temaki Salmão,3,35.00,38
+569,2025-07-02,19:29,Graças,Combinado de Salmão,1,75.00,33
+570,2025-07-04,23:21,Parnamirim,Temaki Camarão,1,75.00,23
+571,2025-07-01,19:52,Casa Amarela,Hot Roll,1,30.00,59
+572,2025-07-01,20:07,Casa Forte,Combinado de Salmão,1,35.00,57
+573,2025-07-03,21:10,Graças,Temaki Salmão,4,85.00,41
+574,2025-07-04,23:23,Graças,Yakisoba de Carne,1,35.00,46
+575,2025-07-01,23:54,Parnamirim,Temaki Salmão,2,30.00,62
+576,2025-07-05,18:09,Graças,Combinado Especial,1,25.00,80
+577,2025-07-02,18:35,Parnamirim,Combinado Premium,3,75.00,50
+578,2025-07-04,20:25,Graças,Hot Roll,3,30.00,39
+579,2025-07-05,23:24,Parnamirim,Temaki Camarão,1,40.00,47
+580,2025-07-04,21:39,Casa Forte,Combinado de Salmão,2,35.00,49
+581,2025-07-02,21:56,Graças,Yakisoba de Carne,1,85.00,46
+582,2025-07-02,22:52,Casa Amarela,Combinado de Salmão,3,25.00,63
+583,2025-07-05,18:15,Casa Forte,Hot Roll,1,25.00,37
+584,2025-07-02,22:42,Graças,Yakisoba de Carne,1,25.00,20
+585,2025-07-03,20:31,Casa Forte,Yakisoba de Carne,2,75.00,37
+586,2025-07-02,18:22,Graças,Hot Roll,3,85.00,29
+587,2025-07-05,19:12,Casa Forte,Combinado Especial,4,110.00,36
+588,2025-07-03,21:15,Graças,Combinado Premium,2,85.00,46
+589,2025-07-02,18:16,Parnamirim,Combinado de Salmão,1,110.00,34
+590,2025-07-01,23:28,Graças,Combinado Premium,2,110.00,51
+591,2025-07-05,18:58,Graças,Temaki Salmão,3,30.00,38
+592,2025-07-05,18:36,Graças,Combinado Especial,1,30.00,38
+593,2025-07-01,19:34,Casa Forte,Combinado Especial,1,75.00,15
+594,2025-07-02,18:13,Espinheiro,Combinado de Salmão,3,25.00,33
+595,2025-07-04,19:35,Parnamirim,Combinado Especial,1,85.00,46
+596,2025-07-05,18:44,Graças,Temaki Camarão,3,35.00,58
+597,2025-07-01,23:17,Graças,Temaki Salmão,3,40.00,20
+598,2025-07-05,20:40,Graças,Temaki Camarão,2,110.00,42
+599,2025-07-04,19:11,Graças,Hot Roll,2,30.00,38
+600,2025-07-05,22:43,Graças,Combinado de Salmão,1,85.00,40
+601,2025-07-04,18:03,Parnamirim,Combinado de Salmão,1,40.00,43
+602,2025-07-01,19:17,Casa Amarela,Hot Roll,1,75.00,38
+603,2025-07-02,21:31,Graças,Temaki Salmão,2,40.00,28
+604,2025-07-04,23:52,Graças,Temaki Camarão,4,110.00,41
+605,2025-07-04,20:35,Casa Forte,Hot Roll,1,110.00,27
+606,2025-07-04,21:04,Casa Amarela,Yakisoba de Frango,1,30.00,34
+607,2025-07-04,21:19,Graças,Combinado de Salmão,3,85.00,42
+608,2025-07-02,23:47,Parnamirim,Combinado Especial,3,110.00,42
+609,2025-07-03,20:56,Parnamirim,Temaki Salmão,1,110.00,56
+610,2025-07-01,19:21,Graças,Temaki Camarão,1,35.00,36
+611,2025-07-01,23:55,Casa Amarela,Combinado de Salmão,2,75.00,37
+612,2025-07-04,21:46,Parnamirim,Combinado Premium,2,85.00,27
+613,2025-07-02,22:46,Casa Forte,Temaki Camarão,1,35.00,20
+614,2025-07-05,23:10,Parnamirim,Yakisoba de Frango,2,30.00,15
+615,2025-07-04,22:40,Graças,Combinado Premium,3,25.00,38
+616,2025-07-03,18:03,Casa Amarela,Combinado de Salmão,2,40.00,18
+617,2025-07-01,23:25,Graças,Combinado Premium,3,40.00,37
+618,2025-07-02,19:37,Casa Amarela,Temaki Salmão,1,40.00,58
+619,2025-07-01,18:03,Casa Amarela,Yakisoba de Frango,3,110.00,57
+620,2025-07-04,19:03,Casa Amarela,Combinado de Salmão,2,40.00,25
+621,2025-07-02,23:51,Parnamirim,Temaki Salmão,1,30.00,23
+622,2025-07-04,18:29,Graças,Combinado Premium,3,110.00,40
+623,2025-07-01,19:50,Graças,Temaki Salmão,2,25.00,41
+624,2025-07-05,20:26,Casa Forte,Hot Roll,3,75.00,53
+625,2025-07-05,18:11,Graças,Temaki Camarão,1,35.00,43
+626,2025-07-03,18:50,Parnamirim,Hot Roll,4,30.00,34
+627,2025-07-03,19:29,Graças,Combinado Especial,2,110.00,70
+628,2025-07-02,23:46,Graças,Combinado de Salmão,4,40.00,32
+629,2025-07-01,21:00,Graças,Temaki Salmão,1,85.00,59
+630,2025-07-02,22:51,Espinheiro,Yakisoba de Frango,1,30.00,63
+631,2025-07-05,21:04,Graças,Hot Roll,1,40.00,50
+632,2025-07-03,20:06,Casa Forte,Hot Roll,1,25.00,58
+633,2025-07-05,18:20,Graças,Yakisoba de Carne,1,110.00,40
+634,2025-07-02,19:59,Casa Forte,Temaki Camarão,2,40.00,15
+635,2025-07-01,21:48,Casa Forte,Yakisoba de Frango,2,85.00,40
+636,2025-07-01,18:50,Casa Forte,Temaki Camarão,3,40.00,61
+637,2025-07-01,20:13,Graças,Hot Roll,1,75.00,39
+638,2025-07-02,18:10,Graças,Yakisoba de Frango,2,40.00,34
+639,2025-07-05,19:42,Graças,Hot Roll,2,40.00,33
+640,2025-07-02,22:16,Casa Forte,Yakisoba de Frango,3,35.00,36
+641,2025-07-03,21:45,Graças,Yakisoba de Frango,1,30.00,52
+642,2025-07-05,19:22,Parnamirim,Yakisoba de Carne,3,75.00,24
+643,2025-07-05,22:22,Graças,Combinado Especial,3,40.00,17
+644,2025-07-01,23:36,Graças,Temaki Camarão,2,75.00,42
+645,2025-07-04,22:11,Graças,Combinado de Salmão,4,75.00,48
+646,2025-07-04,19:51,Parnamirim,Hot Roll,2,110.00,58
+647,2025-07-02,23:05,Casa Amarela,Combinado Especial,1,85.00,47
+648,2025-07-01,22:48,Espinheiro,Yakisoba de Frango,1,110.00,42
+649,2025-07-01,18:27,Casa Amarela,Temaki Salmão,1,30.00,67
+650,2025-07-01,22:04,Parnamirim,Combinado Especial,1,30.00,40
+651,2025-07-01,21:17,Casa Forte,Hot Roll,4,40.00,33
+652,2025-07-01,20:53,Graças,Hot Roll,2,30.00,15
+653,2025-07-04,18:11,Espinheiro,Temaki Salmão,1,35.00,31
+654,2025-07-05,18:06,Casa Amarela,Temaki Salmão,2,40.00,31
+655,2025-07-02,21:21,Casa Forte,Temaki Salmão,1,35.00,32
+656,2025-07-04,22:01,Casa Amarela,Combinado Premium,4,75.00,43
+657,2025-07-01,19:58,Casa Amarela,Yakisoba de Carne,4,85.00,18
+658,2025-07-02,21:00,Graças,Hot Roll,1,75.00,28
+659,2025-07-04,21:38,Casa Forte,Yakisoba de Carne,1,75.00,48
+660,2025-07-01,18:02,Parnamirim,Temaki Salmão,3,110.00,42
+661,2025-07-02,22:39,Casa Amarela,Yakisoba de Frango,2,25.00,30
+662,2025-07-01,19:29,Graças,Hot Roll,2,35.00,40
+663,2025-07-02,22:02,Espinheiro,Temaki Salmão,3,35.00,46
+664,2025-07-03,19:26,Graças,Hot Roll,2,40.00,19
+665,2025-07-01,23:03,Parnamirim,Yakisoba de Frango,1,75.00,60
+666,2025-07-01,23:52,Parnamirim,Temaki Salmão,1,85.00,56
+667,2025-07-01,18:03,Graças,Hot Roll,4,35.00,42
+668,2025-07-05,18:42,Graças,Combinado Especial,1,40.00,26
+669,2025-07-03,22:37,Casa Amarela,Yakisoba de Frango,1,85.00,18
+670,2025-07-03,22:17,Graças,Hot Roll,1,110.00,29
+671,2025-07-01,22:59,Casa Amarela,Temaki Camarão,1,35.00,45
+672,2025-07-02,19:55,Casa Amarela,Combinado de Salmão,3,110.00,69
+673,2025-07-04,23:19,Casa Forte,Combinado de Salmão,1,40.00,52
+674,2025-07-01,19:04,Casa Forte,Yakisoba de Frango,1,75.00,36
+675,2025-07-01,22:53,Graças,Combinado Especial,1,30.00,41
+676,2025-07-01,19:00,Graças,Hot Roll,2,25.00,60
+677,2025-07-03,19:21,Graças,Hot Roll,5,35.00,37
+678,2025-07-03,21:16,Casa Forte,Hot Roll,2,110.00,63
+679,2025-07-01,19:31,Casa Forte,Temaki Camarão,2,30.00,44
+680,2025-07-04,18:27,Graças,Temaki Camarão,3,85.00,15
+681,2025-07-04,20:05,Casa Forte,Temaki Salmão,5,30.00,31
+682,2025-07-05,23:11,Casa Forte,Combinado Especial,3,40.00,18
+683,2025-07-05,22:34,Espinheiro,Hot Roll,1,40.00,66
+684,2025-07-05,20:48,Casa Forte,Hot Roll,4,85.00,49
+685,2025-07-04,23:17,Graças,Temaki Camarão,2,40.00,34
+686,2025-07-01,21:18,Casa Forte,Yakisoba de Frango,1,40.00,36
+687,2025-07-01,20:46,Graças,Hot Roll,2,75.00,42
+688,2025-07-01,21:48,Casa Forte,Yakisoba de Frango,1,30.00,23
+689,2025-07-01,19:08,Casa Forte,Combinado de Salmão,2,40.00,24
+690,2025-07-02,20:36,Casa Forte,Hot Roll,1,75.00,40
+691,2025-07-04,19:56,Casa Forte,Temaki Salmão,1,40.00,45
+692,2025-07-02,19:39,Graças,Hot Roll,1,110.00,31
+693,2025-07-03,18:32,Casa Amarela,Hot Roll,2,25.00,19
+694,2025-07-02,23:17,Parnamirim,Temaki Salmão,4,35.00,36
+695,2025-07-04,23:46,Casa Forte,Combinado de Salmão,4,75.00,46
+696,2025-07-02,21:45,Graças,Temaki Salmão,3,35.00,33
+697,2025-07-03,18:34,Casa Forte,Yakisoba de Carne,2,85.00,21
+698,2025-07-03,22:02,Casa Forte,Combinado Premium,1,75.00,46
+699,2025-07-03,20:03,Graças,Yakisoba de Frango,2,110.00,37
+700,2025-07-03,22:25,Graças,Yakisoba de Frango,3,85.00,24
+701,2025-07-01,18:45,Espinheiro,Temaki Salmão,4,30.00,26
+702,2025-07-02,21:39,Parnamirim,Hot Roll,1,25.00,41
+703,2025-07-04,22:51,Casa Forte,Temaki Salmão,2,25.00,27
+704,2025-07-01,23:40,Graças,Hot Roll,1,35.00,46
+705,2025-07-03,23:41,Graças,Hot Roll,3,40.00,18
+706,2025-07-02,18:13,Casa Forte,Combinado Especial,1,25.00,29
+707,2025-07-02,20:46,Casa Forte,Hot Roll,2,25.00,31
+708,2025-07-02,18:14,Espinheiro,Hot Roll,1,25.00,22
+709,2025-07-05,20:06,Casa Amarela,Yakisoba de Frango,3,110.00,60
+710,2025-07-03,19:35,Graças,Combinado de Salmão,1,25.00,58
+711,2025-07-04,22:14,Espinheiro,Combinado Premium,2,35.00,52
+712,2025-07-02,22:16,Parnamirim,Combinado Premium,2,30.00,25
+713,2025-07-02,23:12,Casa Forte,Combinado de Salmão,2,40.00,42
+714,2025-07-01,20:09,Parnamirim,Temaki Salmão,5,30.00,42
+715,2025-07-05,18:13,Graças,Yakisoba de Frango,3,110.00,43
+716,2025-07-04,22:08,Casa Amarela,Temaki Salmão,2,25.00,49
+717,2025-07-02,20:35,Casa Forte,Combinado de Salmão,2,40.00,36
+718,2025-07-03,22:18,Espinheiro,Combinado Especial,4,110.00,58
+719,2025-07-01,23:08,Casa Forte,Temaki Salmão,1,30.00,41
+720,2025-07-01,21:19,Casa Forte,Temaki Salmão,1,85.00,69
+721,2025-07-03,21:24,Espinheiro,Combinado Especial,3,30.00,48
+722,2025-07-03,18:54,Graças,Yakisoba de Frango,1,30.00,38
+723,2025-07-04,22:50,Casa Amarela,Hot Roll,1,85.00,39
+724,2025-07-02,22:23,Graças,Combinado Premium,1,25.00,33
+725,2025-07-01,18:40,Casa Forte,Temaki Camarão,2,40.00,51
+726,2025-07-03,22:36,Casa Forte,Hot Roll,1,85.00,49
+727,2025-07-01,18:00,Graças,Hot Roll,4,35.00,44
+728,2025-07-01,21:57,Espinheiro,Combinado de Salmão,1,110.00,37
+729,2025-07-05,18:30,Parnamirim,Hot Roll,4,85.00,61
+730,2025-07-04,21:24,Parnamirim,Yakisoba de Carne,4,30.00,42
+731,2025-07-03,23:38,Casa Forte,Yakisoba de Frango,2,75.00,30
+732,2025-07-04,22:18,Parnamirim,Temaki Salmão,3,35.00,38
+733,2025-07-03,19:12,Parnamirim,Yakisoba de Frango,3,25.00,63
+734,2025-07-05,23:03,Casa Forte,Combinado de Salmão,2,30.00,22
+735,2025-07-03,20:07,Casa Amarela,Hot Roll,1,40.00,59
+736,2025-07-04,18:35,Graças,Combinado de Salmão,1,30.00,60
+737,2025-07-04,18:51,Graças,Combinado de Salmão,1,85.00,40
+738,2025-07-05,21:11,Casa Amarela,Hot Roll,3,25.00,33
+739,2025-07-02,18:24,Casa Amarela,Hot Roll,2,40.00,30
+740,2025-07-03,21:25,Casa Amarela,Temaki Salmão,1,110.00,19
+741,2025-07-04,20:59,Parnamirim,Yakisoba de Carne,2,75.00,19
+742,2025-07-05,19:39,Parnamirim,Combinado Premium,2,85.00,15
+743,2025-07-02,22:21,Parnamirim,Combinado de Salmão,3,35.00,76
+744,2025-07-02,21:23,Casa Forte,Temaki Salmão,1,30.00,35
+745,2025-07-03,20:55,Parnamirim,Yakisoba de Frango,2,75.00,52
+746,2025-07-05,18:55,Espinheiro,Temaki Camarão,1,35.00,33
+747,2025-07-01,21:27,Casa Forte,Combinado Especial,1,35.00,24
+748,2025-07-04,19:00,Casa Amarela,Combinado Especial,4,85.00,26
+749,2025-07-03,23:43,Parnamirim,Hot Roll,2,85.00,37
+750,2025-07-05,18:12,Parnamirim,Yakisoba de Frango,3,25.00,50
+751,2025-07-01,18:17,Casa Amarela,Combinado de Salmão,1,30.00,17
+752,2025-07-01,18:42,Casa Forte,Combinado Premium,1,75.00,69
+753,2025-07-02,19:10,Graças,Hot Roll,2,110.00,15
+754,2025-07-02,23:14,Casa Forte,Yakisoba de Frango,4,30.00,32
+755,2025-07-01,20:48,Parnamirim,Temaki Salmão,1,25.00,26
+756,2025-07-03,23:36,Espinheiro,Combinado Especial,1,40.00,45
+757,2025-07-04,23:51,Casa Amarela,Yakisoba de Carne,1,30.00,47
+758,2025-07-01,18:59,Parnamirim,Yakisoba de Carne,1,25.00,53
+759,2025-07-04,20:22,Graças,Hot Roll,1,25.00,47
+760,2025-07-03,22:00,Graças,Hot Roll,1,30.00,61
+761,2025-07-03,22:26,Casa Amarela,Yakisoba de Frango,1,25.00,22
+762,2025-07-03,22:37,Graças,Hot Roll,1,25.00,19
+763,2025-07-03,20:10,Graças,Yakisoba de Frango,1,75.00,56
+764,2025-07-03,19:18,Casa Forte,Temaki Salmão,1,85.00,58
+765,2025-07-01,22:45,Graças,Combinado Especial,2,35.00,26
+766,2025-07-02,18:38,Casa Forte,Temaki Salmão,2,40.00,36
+767,2025-07-05,18:08,Parnamirim,Yakisoba de Frango,2,40.00,32
+768,2025-07-01,21:27,Casa Forte,Combinado de Salmão,1,35.00,59
+769,2025-07-05,18:16,Casa Forte,Combinado Especial,1,25.00,46
+770,2025-07-01,19:40,Espinheiro,Combinado Especial,1,110.00,19
+771,2025-07-02,20:40,Casa Forte,Temaki Salmão,2,40.00,30
+772,2025-07-05,22:51,Parnamirim,Temaki Salmão,3,25.00,35
+773,2025-07-01,20:39,Casa Amarela,Temaki Salmão,2,75.00,26
+774,2025-07-03,18:52,Casa Forte,Yakisoba de Frango,4,30.00,17
+775,2025-07-03,18:34,Casa Amarela,Yakisoba de Carne,2,85.00,36
+776,2025-07-01,18:15,Graças,Hot Roll,1,85.00,39
+777,2025-07-04,19:21,Parnamirim,Combinado Especial,1,35.00,32
+778,2025-07-02,22:27,Graças,Combinado Especial,1,85.00,53
+779,2025-07-05,19:03,Graças,Temaki Camarão,4,30.00,48
+780,2025-07-01,20:40,Casa Forte,Temaki Camarão,2,85.00,64
+781,2025-07-03,22:14,Graças,Yakisoba de Frango,2,40.00,30
+782,2025-07-02,20:31,Graças,Combinado Especial,1,40.00,32
+783,2025-07-03,20:57,Graças,Combinado Premium,1,110.00,25
+784,2025-07-03,20:45,Graças,Combinado de Salmão,1,75.00,30
+785,2025-07-05,18:37,Graças,Yakisoba de Frango,2,40.00,36
+786,2025-07-01,19:27,Casa Forte,Yakisoba de Carne,2,25.00,52
+787,2025-07-04,19:06,Casa Amarela,Temaki Camarão,4,75.00,24
+788,2025-07-01,23:48,Casa Amarela,Combinado Especial,1,30.00,41
+789,2025-07-04,18:13,Casa Amarela,Combinado de Salmão,3,75.00,21
+790,2025-07-02,22:34,Parnamirim,Combinado Premium,1,35.00,42
+791,2025-07-04,18:42,Casa Forte,Temaki Camarão,1,25.00,43
+792,2025-07-01,21:12,Espinheiro,Hot Roll,2,35.00,16
+793,2025-07-01,22:55,Casa Forte,Hot Roll,2,35.00,30
+794,2025-07-04,19:58,Casa Forte,Hot Roll,1,110.00,54
+795,2025-07-02,18:23,Graças,Combinado Especial,3,75.00,60
+796,2025-07-05,18:42,Graças,Combinado Especial,1,40.00,45
+797,2025-07-02,19:06,Casa Forte,Hot Roll,2,40.00,33
+798,2025-07-05,20:37,Casa Forte,Hot Roll,1,25.00,41
+799,2025-07-04,21:16,Graças,Hot Roll,1,110.00,34
+800,2025-07-03,22:37,Parnamirim,Combinado Especial,1,75.00,34
+801,2025-07-03,23:58,Casa Forte,Hot Roll,2,30.00,44
+802,2025-07-01,21:56,Graças,Yakisoba de Frango,1,35.00,31
+803,2025-07-03,23:51,Graças,Combinado Premium,1,30.00,20
+804,2025-07-03,19:39,Casa Amarela,Temaki Salmão,1,75.00,59
+805,2025-07-01,19:18,Casa Amarela,Temaki Camarão,1,75.00,30
+806,2025-07-03,18:49,Espinheiro,Temaki Salmão,1,75.00,30
+807,2025-07-04,22:12,Parnamirim,Combinado Especial,3,85.00,36
+808,2025-07-04,22:25,Casa Forte,Combinado Premium,1,75.00,24
+809,2025-07-05,19:49,Graças,Temaki Camarão,2,35.00,43
+810,2025-07-03,21:08,Casa Forte,Temaki Camarão,2,85.00,52
+811,2025-07-01,22:45,Graças,Hot Roll,3,30.00,57
+812,2025-07-04,21:47,Espinheiro,Yakisoba de Frango,3,110.00,25
+813,2025-07-05,20:10,Graças,Hot Roll,1,40.00,34
+814,2025-07-02,21:47,Parnamirim,Yakisoba de Frango,1,35.00,39
+815,2025-07-04,22:32,Casa Amarela,Temaki Salmão,3,30.00,57
+816,2025-07-04,20:07,Graças,Hot Roll,3,110.00,35
+817,2025-07-02,21:20,Graças,Hot Roll,1,75.00,26
+818,2025-07-05,22:28,Graças,Combinado de Salmão,1,75.00,15
+819,2025-07-04,19:04,Casa Forte,Combinado Especial,1,30.00,27
+820,2025-07-01,20:40,Casa Forte,Temaki Salmão,2,85.00,36
+821,2025-07-04,22:09,Graças,Yakisoba de Carne,1,110.00,52
+822,2025-07-05,18:27,Parnamirim,Temaki Salmão,3,35.00,21
+823,2025-07-05,22:03,Graças,Hot Roll,1,75.00,15
+824,2025-07-04,23:08,Casa Amarela,Hot Roll,2,30.00,27
+825,2025-07-03,19:44,Graças,Temaki Camarão,2,25.00,75
+826,2025-07-01,20:13,Casa Amarela,Combinado de Salmão,1,110.00,49
+827,2025-07-04,23:28,Graças,Temaki Salmão,3,110.00,23
+828,2025-07-05,22:29,Casa Forte,Combinado Especial,1,75.00,41
+829,2025-07-04,21:58,Graças,Hot Roll,2,40.00,16
+830,2025-07-02,20:43,Graças,Combinado de Salmão,3,75.00,33
+831,2025-07-04,19:53,Parnamirim,Combinado de Salmão,3,75.00,35
+832,2025-07-05,18:13,Casa Forte,Hot Roll,1,75.00,26
+833,2025-07-04,23:12,Casa Forte,Combinado de Salmão,2,110.00,44
+834,2025-07-01,22:13,Graças,Temaki Camarão,1,35.00,30
+835,2025-07-05,19:48,Casa Forte,Yakisoba de Frango,2,85.00,33
+836,2025-07-02,23:52,Casa Amarela,Yakisoba de Carne,3,40.00,58
+837,2025-07-05,22:48,Casa Amarela,Combinado de Salmão,1,30.00,15
+838,2025-07-01,21:08,Casa Forte,Yakisoba de Frango,3,85.00,31
+839,2025-07-02,22:49,Casa Forte,Hot Roll,1,30.00,68
+840,2025-07-01,22:43,Graças,Hot Roll,1,85.00,79
+841,2025-07-04,20:30,Casa Forte,Temaki Salmão,1,110.00,59
+842,2025-07-01,20:42,Graças,Hot Roll,1,25.00,35
+843,2025-07-05,23:28,Graças,Hot Roll,2,35.00,50
+844,2025-07-04,20:05,Parnamirim,Hot Roll,1,85.00,39
+845,2025-07-02,22:37,Casa Forte,Combinado de Salmão,3,75.00,32
+846,2025-07-04,19:42,Casa Amarela,Combinado Premium,4,35.00,40
+847,2025-07-04,22:28,Graças,Hot Roll,2,25.00,28
+848,2025-07-04,18:44,Parnamirim,Temaki Salmão,1,25.00,40
+849,2025-07-05,21:34,Casa Amarela,Combinado Premium,3,25.00,70
+850,2025-07-01,21:58,Parnamirim,Temaki Salmão,1,110.00,56
+851,2025-07-05,18:36,Casa Forte,Combinado Especial,2,110.00,49
+852,2025-07-02,18:55,Casa Amarela,Hot Roll,2,25.00,32
+853,2025-07-01,22:54,Casa Forte,Combinado Especial,4,110.00,37
+854,2025-07-02,21:44,Casa Forte,Temaki Camarão,1,75.00,15
+855,2025-07-04,22:56,Graças,Temaki Camarão,1,30.00,59
+856,2025-07-02,18:54,Parnamirim,Temaki Salmão,1,25.00,31
+857,2025-07-01,23:49,Graças,Temaki Salmão,2,25.00,30
+858,2025-07-05,19:13,Casa Forte,Yakisoba de Frango,1,40.00,34
+859,2025-07-01,18:32,Casa Forte,Combinado Especial,4,25.00,51
+860,2025-07-01,20:41,Parnamirim,Hot Roll,1,75.00,15
+861,2025-07-03,20:46,Parnamirim,Yakisoba de Frango,4,30.00,49
+862,2025-07-05,18:17,Graças,Temaki Salmão,4,40.00,61
+863,2025-07-01,23:34,Casa Amarela,Temaki Camarão,1,85.00,54
+864,2025-07-02,22:58,Casa Amarela,Combinado de Salmão,2,40.00,30
+865,2025-07-05,22:46,Graças,Temaki Salmão,3,35.00,20
+866,2025-07-03,20:00,Casa Forte,Yakisoba de Frango,1,110.00,39
+867,2025-07-04,21:28,Graças,Hot Roll,1,25.00,41
+868,2025-07-03,19:53,Casa Amarela,Combinado Especial,2,35.00,15
+869,2025-07-04,19:58,Casa Forte,Hot Roll,1,30.00,51
+870,2025-07-02,18:53,Parnamirim,Hot Roll,1,40.00,15
+871,2025-07-01,20:48,Graças,Temaki Salmão,2,75.00,36
+872,2025-07-02,23:14,Graças,Combinado de Salmão,1,85.00,55
+873,2025-07-05,21:36,Espinheiro,Combinado Especial,2,85.00,31
+874,2025-07-02,20:56,Graças,Combinado de Salmão,1,40.00,33
+875,2025-07-05,22:45,Casa Amarela,Combinado de Salmão,3,30.00,44
+876,2025-07-04,21:19,Casa Forte,Temaki Salmão,1,35.00,63
+877,2025-07-04,23:16,Graças,Temaki Salmão,1,35.00,54
+878,2025-07-04,20:02,Graças,Temaki Salmão,2,25.00,34
+879,2025-07-04,23:38,Graças,Temaki Camarão,1,25.00,38
+880,2025-07-03,19:12,Casa Forte,Temaki Salmão,1,35.00,48
+881,2025-07-03,21:05,Graças,Yakisoba de Carne,1,110.00,29
+882,2025-07-03,20:43,Casa Forte,Combinado Especial,1,75.00,39
+883,2025-07-03,22:21,Parnamirim,Hot Roll,1,30.00,49
+884,2025-07-02,21:28,Graças,Combinado Especial,1,25.00,67
+885,2025-07-05,23:04,Parnamirim,Hot Roll,4,30.00,51
+886,2025-07-01,23:56,Parnamirim,Hot Roll,1,30.00,55
+887,2025-07-02,22:18,Casa Amarela,Hot Roll,3,25.00,45
+888,2025-07-03,19:16,Parnamirim,Combinado Premium,1,75.00,65
+889,2025-07-04,23:48,Casa Forte,Hot Roll,1,30.00,50
+890,2025-07-04,20:29,Casa Amarela,Combinado Premium,2,25.00,23
+891,2025-07-05,22:27,Parnamirim,Temaki Camarão,2,85.00,54
+892,2025-07-01,23:12,Parnamirim,Temaki Camarão,2,110.00,42
+893,2025-07-05,19:17,Casa Forte,Temaki Camarão,2,85.00,33
+894,2025-07-01,20:03,Graças,Hot Roll,2,110.00,35
+895,2025-07-02,20:30,Graças,Yakisoba de Carne,1,110.00,43
+896,2025-07-05,22:23,Parnamirim,Yakisoba de Carne,1,25.00,53
+897,2025-07-02,22:27,Casa Amarela,Yakisoba de Carne,4,25.00,42
+898,2025-07-01,21:13,Graças,Hot Roll,2,30.00,15
+899,2025-07-02,21:23,Casa Forte,Yakisoba de Frango,1,40.00,27
+900,2025-07-04,20:38,Casa Amarela,Yakisoba de Carne,1,35.00,82
+901,2025-07-02,21:43,Parnamirim,Temaki Salmão,1,75.00,58
+902,2025-07-02,22:51,Parnamirim,Combinado Especial,4,35.00,37
+903,2025-07-04,21:07,Casa Amarela,Combinado de Salmão,2,75.00,64
+904,2025-07-05,19:53,Espinheiro,Temaki Camarão,5,110.00,47
+905,2025-07-02,20:25,Parnamirim,Combinado Premium,2,110.00,22
+906,2025-07-05,19:47,Graças,Combinado de Salmão,1,40.00,50
+907,2025-07-05,22:17,Graças,Temaki Salmão,3,30.00,41
+908,2025-07-04,21:47,Parnamirim,Combinado Premium,3,25.00,66
+909,2025-07-04,20:50,Espinheiro,Combinado Especial,2,40.00,27
+910,2025-07-01,21:50,Casa Amarela,Yakisoba de Carne,2,110.00,70
+911,2025-07-05,19:04,Casa Forte,Yakisoba de Carne,3,75.00,55
+912,2025-07-05,22:53,Parnamirim,Temaki Salmão,1,25.00,24
+913,2025-07-01,19:53,Casa Forte,Combinado Premium,2,85.00,34
+914,2025-07-03,22:40,Casa Amarela,Temaki Camarão,1,110.00,45
+915,2025-07-02,18:42,Casa Forte,Combinado de Salmão,1,35.00,46
+916,2025-07-03,18:55,Graças,Yakisoba de Frango,3,25.00,39
+917,2025-07-03,23:17,Espinheiro,Hot Roll,3,75.00,26
+918,2025-07-01,20:28,Casa Amarela,Hot Roll,2,25.00,36
+919,2025-07-03,19:45,Espinheiro,Hot Roll,1,85.00,56
+920,2025-07-04,19:38,Casa Forte,Hot Roll,2,110.00,38
+921,2025-07-03,21:17,Casa Forte,Yakisoba de Carne,3,85.00,55
+922,2025-07-03,22:40,Casa Forte,Hot Roll,1,75.00,15
+923,2025-07-01,22:07,Casa Amarela,Temaki Salmão,2,75.00,41
+924,2025-07-05,19:50,Espinheiro,Hot Roll,1,85.00,38
+925,2025-07-05,22:47,Casa Forte,Temaki Camarão,2,75.00,58
+926,2025-07-03,21:34,Casa Forte,Hot Roll,3,35.00,67
+927,2025-07-04,23:32,Graças,Combinado Especial,2,25.00,66
+928,2025-07-01,21:28,Espinheiro,Temaki Salmão,2,110.00,51
+929,2025-07-03,20:47,Casa Forte,Temaki Salmão,1,40.00,21
+930,2025-07-01,18:29,Parnamirim,Combinado Premium,1,25.00,21
+931,2025-07-05,19:58,Graças,Temaki Camarão,2,40.00,38
+932,2025-07-02,18:44,Graças,Hot Roll,1,40.00,47
+933,2025-07-03,23:45,Parnamirim,Combinado Especial,2,30.00,29
+934,2025-07-03,23:19,Casa Forte,Yakisoba de Frango,1,30.00,28
+935,2025-07-03,19:16,Casa Forte,Hot Roll,2,30.00,48
+936,2025-07-04,19:37,Casa Forte,Temaki Salmão,2,25.00,43
+937,2025-07-03,23:34,Graças,Temaki Salmão,4,25.00,42
+938,2025-07-05,19:00,Espinheiro,Temaki Salmão,3,75.00,45
+939,2025-07-03,20:09,Graças,Hot Roll,2,25.00,20
+940,2025-07-05,18:49,Casa Forte,Combinado Especial,1,35.00,34
+941,2025-07-04,21:21,Espinheiro,Temaki Camarão,1,35.00,27
+942,2025-07-04,19:09,Graças,Combinado Especial,3,25.00,15
+943,2025-07-02,21:32,Parnamirim,Hot Roll,1,40.00,48
+944,2025-07-02,18:14,Espinheiro,Combinado Especial,2,40.00,57
+945,2025-07-02,20:38,Casa Amarela,Yakisoba de Carne,4,110.00,58
+946,2025-07-05,18:04,Casa Forte,Temaki Salmão,1,30.00,18
+947,2025-07-02,21:50,Parnamirim,Hot Roll,1,110.00,90
+948,2025-07-05,22:57,Graças,Temaki Salmão,1,35.00,72
+949,2025-07-04,23:35,Graças,Temaki Salmão,1,75.00,47
+950,2025-07-03,18:35,Casa Forte,Combinado Especial,1,40.00,48
+951,2025-07-01,23:36,Parnamirim,Temaki Camarão,1,35.00,40
+952,2025-07-04,20:18,Espinheiro,Yakisoba de Carne,2,75.00,48
+953,2025-07-02,18:28,Graças,Hot Roll,3,40.00,63
+954,2025-07-01,18:42,Espinheiro,Combinado de Salmão,3,85.00,37
+955,2025-07-02,19:54,Parnamirim,Yakisoba de Frango,1,110.00,15
+956,2025-07-01,21:11,Casa Amarela,Yakisoba de Carne,1,40.00,42
+957,2025-07-01,21:32,Casa Forte,Combinado de Salmão,3,85.00,45
+958,2025-07-02,19:24,Casa Amarela,Combinado Especial,2,25.00,29
+959,2025-07-03,23:26,Espinheiro,Hot Roll,1,75.00,27
+960,2025-07-03,19:43,Casa Forte,Hot Roll,2,40.00,16
+961,2025-07-04,19:36,Casa Forte,Yakisoba de Frango,2,110.00,30
+962,2025-07-02,18:44,Parnamirim,Hot Roll,4,30.00,15
+963,2025-07-01,22:24,Parnamirim,Combinado Especial,2,35.00,53
+964,2025-07-04,20:26,Parnamirim,Hot Roll,1,25.00,46
+965,2025-07-01,18:10,Parnamirim,Hot Roll,1,85.00,28
+966,2025-07-03,18:18,Casa Amarela,Yakisoba de Frango,1,110.00,31
+967,2025-07-02,23:46,Casa Amarela,Hot Roll,1,85.00,39
+968,2025-07-01,22:37,Casa Forte,Combinado de Salmão,1,75.00,18
+969,2025-07-04,21:18,Casa Amarela,Yakisoba de Carne,2,30.00,54
+970,2025-07-05,20:23,Casa Amarela,Combinado Premium,3,35.00,46
+971,2025-07-03,19:16,Parnamirim,Combinado Especial,3,110.00,54
+972,2025-07-04,20:24,Casa Forte,Hot Roll,3,25.00,46
+973,2025-07-01,22:43,Casa Amarela,Hot Roll,3,85.00,41
+974,2025-07-04,19:38,Casa Forte,Combinado Especial,3,30.00,32
+975,2025-07-01,18:46,Parnamirim,Combinado Premium,4,85.00,47
+976,2025-07-04,23:13,Parnamirim,Yakisoba de Carne,1,75.00,28
+977,2025-07-01,22:34,Casa Amarela,Hot Roll,3,35.00,41
+978,2025-07-02,18:28,Graças,Combinado Especial,2,30.00,49
+979,2025-07-01,20:32,Casa Forte,Temaki Camarão,2,30.00,33
+980,2025-07-02,23:20,Graças,Temaki Camarão,1,40.00,51
+981,2025-07-04,19:59,Parnamirim,Temaki Salmão,4,85.00,51
+982,2025-07-01,23:11,Casa Amarela,Combinado Premium,1,110.00,33
+983,2025-07-02,20:36,Casa Forte,Combinado Especial,1,35.00,45
+984,2025-07-03,22:33,Espinheiro,Yakisoba de Frango,1,40.00,48
+985,2025-07-02,23:36,Graças,Temaki Salmão,2,25.00,15
+986,2025-07-03,19:46,Parnamirim,Yakisoba de Frango,2,75.00,46
+987,2025-07-02,18:04,Graças,Temaki Salmão,1,85.00,32
+988,2025-07-03,22:26,Casa Amarela,Temaki Salmão,1,35.00,47
+989,2025-07-02,20:02,Casa Amarela,Combinado Premium,3,35.00,43
+990,2025-07-01,19:05,Graças,Temaki Salmão,1,40.00,75
+991,2025-07-04,21:12,Graças,Yakisoba de Frango,1,30.00,34
+992,2025-07-02,21:14,Casa Forte,Combinado Premium,2,75.00,58
+993,2025-07-05,21:17,Casa Forte,Combinado Especial,1,35.00,57
+994,2025-07-01,18:27,Casa Amarela,Hot Roll,4,75.00,66
+995,2025-07-02,18:26,Graças,Hot Roll,3,35.00,44
+996,2025-07-01,23:23,Graças,Combinado Especial,2,25.00,43
+997,2025-07-01,18:14,Parnamirim,Combinado Premium,2,85.00,39
+998,2025-07-03,19:44,Graças,Yakisoba de Frango,5,25.00,22
+999,2025-07-04,21:06,Espinheiro,Combinado de Salmão,4,110.00,34
+1000,2025-07-02,18:58,Casa Forte,Yakisoba de Carne,1,35.00,34
+1001,2025-07-01,19:23,Graças,Yakisoba de Frango,1,110.00,36
+1002,2025-07-01,19:25,Graças,Hot Roll,2,40.00,39
+1003,2025-07-01,19:44,Casa Forte,Hot Roll,1,75.00,15
+1004,2025-07-01,20:22,Parnamirim,Combinado Especial,3,30.00,15
+1005,2025-07-05,19:01,Graças,Combinado Especial,1,40.00,52
+1006,2025-07-03,21:26,Casa Forte,Yakisoba de Frango,1,110.00,15
+1007,2025-07-04,19:14,Casa Amarela,Combinado Especial,2,75.00,30
+1008,2025-07-03,23:46,Casa Forte,Combinado de Salmão,1,30.00,20
+1009,2025-07-03,22:25,Casa Forte,Combinado Especial,2,110.00,44
+1010,2025-07-05,18:28,Graças,Temaki Salmão,1,75.00,67
+1011,2025-07-02,21:16,Espinheiro,Combinado Premium,2,85.00,38
+1012,2025-07-03,22:40,Graças,Temaki Camarão,3,30.00,24
+1013,2025-07-02,19:33,Parnamirim,Temaki Camarão,1,40.00,43
+1014,2025-07-01,18:18,Graças,Temaki Salmão,1,30.00,39
+1015,2025-07-02,21:00,Graças,Yakisoba de Carne,3,75.00,37
+1016,2025-07-04,18:40,Graças,Hot Roll,1,30.00,51
+1017,2025-07-01,21:57,Casa Forte,Hot Roll,4,85.00,39
+1018,2025-07-05,19:20,Espinheiro,Combinado Especial,2,40.00,39
+1019,2025-07-03,19:28,Parnamirim,Yakisoba de Frango,2,110.00,20
+1020,2025-07-01,19:40,Casa Forte,Hot Roll,1,35.00,44
+1021,2025-07-04,23:29,Parnamirim,Yakisoba de Carne,3,85.00,40
+1022,2025-07-05,18:54,Casa Amarela,Temaki Salmão,3,40.00,53
+1023,2025-07-04,22:13,Parnamirim,Combinado de Salmão,5,40.00,24
+1024,2025-07-03,20:56,Parnamirim,Combinado Premium,4,30.00,41
+1025,2025-07-04,23:40,Graças,Temaki Camarão,2,75.00,35
+1026,2025-07-01,18:24,Espinheiro,Hot Roll,1,35.00,53
+1027,2025-07-04,22:29,Casa Forte,Temaki Camarão,2,40.00,48
+1028,2025-07-01,19:12,Graças,Yakisoba de Carne,1,30.00,43
+1029,2025-07-02,18:27,Graças,Hot Roll,1,75.00,67
+1030,2025-07-02,19:24,Espinheiro,Hot Roll,3,110.00,44
+1031,2025-07-04,23:32,Parnamirim,Yakisoba de Frango,1,40.00,42
+1032,2025-07-04,23:43,Graças,Yakisoba de Frango,1,110.00,51
+1033,2025-07-04,18:07,Graças,Yakisoba de Frango,2,85.00,64
+1034,2025-07-02,19:23,Casa Forte,Temaki Camarão,1,25.00,58
+1035,2025-07-03,23:10,Casa Amarela,Temaki Salmão,1,25.00,53
+1036,2025-07-02,19:35,Casa Forte,Yakisoba de Frango,1,75.00,62
+1037,2025-07-05,23:39,Casa Amarela,Yakisoba de Carne,2,30.00,27
+1038,2025-07-05,23:46,Casa Amarela,Combinado de Salmão,5,75.00,21
+1039,2025-07-04,20:07,Graças,Combinado de Salmão,2,75.00,44
+1040,2025-07-02,21:59,Casa Amarela,Temaki Salmão,1,85.00,15
+1041,2025-07-01,22:23,Casa Amarela,Hot Roll,1,30.00,15
+1042,2025-07-05,23:04,Parnamirim,Hot Roll,1,35.00,44
+1043,2025-07-05,23:00,Graças,Combinado Especial,2,75.00,31
+1044,2025-07-05,19:42,Casa Forte,Combinado Premium,1,40.00,28
+1045,2025-07-05,23:11,Casa Forte,Temaki Salmão,3,110.00,21
+1046,2025-07-03,22:18,Parnamirim,Hot Roll,2,30.00,52
+1047,2025-07-03,20:32,Graças,Temaki Salmão,3,110.00,63
+1048,2025-07-03,22:13,Graças,Yakisoba de Frango,1,110.00,15
+1049,2025-07-05,21:31,Casa Amarela,Hot Roll,1,40.00,73
+1050,2025-07-01,18:06,Graças,Combinado de Salmão,3,25.00,50
+1051,2025-07-02,19:50,Parnamirim,Combinado de Salmão,2,40.00,34
+1052,2025-07-01,23:09,Graças,Temaki Camarão,2,35.00,37
+1053,2025-07-02,18:11,Casa Forte,Combinado de Salmão,1,30.00,17
+1054,2025-07-02,20:31,Casa Forte,Hot Roll,2,30.00,40
+1055,2025-07-04,19:15,Casa Forte,Hot Roll,1,35.00,32
+1056,2025-07-02,18:03,Graças,Temaki Salmão,3,85.00,27
+1057,2025-07-03,21:25,Espinheiro,Hot Roll,3,25.00,49
+1058,2025-07-01,19:27,Graças,Yakisoba de Carne,3,85.00,33
+1059,2025-07-01,22:30,Graças,Yakisoba de Frango,2,30.00,53
+1060,2025-07-02,22:02,Graças,Hot Roll,2,25.00,32
+1061,2025-07-05,20:45,Casa Forte,Combinado Especial,2,110.00,41
+1062,2025-07-01,21:34,Espinheiro,Hot Roll,2,30.00,59
+1063,2025-07-02,20:27,Casa Forte,Temaki Salmão,1,75.00,38
+1064,2025-07-01,18:13,Espinheiro,Temaki Salmão,2,35.00,49
+1065,2025-07-01,22:15,Casa Forte,Yakisoba de Frango,1,75.00,15
+1066,2025-07-04,21:47,Graças,Yakisoba de Frango,3,75.00,48
+1067,2025-07-01,19:47,Casa Forte,Temaki Salmão,3,75.00,15
+1068,2025-07-01,19:54,Graças,Hot Roll,2,40.00,23
+1069,2025-07-04,18:32,Casa Amarela,Combinado de Salmão,1,85.00,67
+1070,2025-07-05,18:36,Parnamirim,Hot Roll,3,110.00,40
+1071,2025-07-02,19:25,Casa Forte,Temaki Salmão,2,35.00,15
+1072,2025-07-03,22:56,Casa Amarela,Temaki Salmão,3,35.00,25
+1073,2025-07-03,20:20,Graças,Yakisoba de Carne,2,25.00,49
+1074,2025-07-03,18:40,Graças,Hot Roll,3,25.00,26
+1075,2025-07-05,23:14,Casa Forte,Combinado de Salmão,3,25.00,34
+1076,2025-07-03,21:57,Parnamirim,Hot Roll,2,85.00,15
+1077,2025-07-05,19:59,Graças,Combinado de Salmão,1,40.00,65
+1078,2025-07-01,22:57,Parnamirim,Temaki Salmão,3,40.00,26
+1079,2025-07-04,21:59,Parnamirim,Temaki Salmão,2,40.00,28
+1080,2025-07-05,21:53,Casa Forte,Combinado Premium,1,25.00,54
+1081,2025-07-01,19:52,Casa Forte,Temaki Salmão,1,30.00,23
+1082,2025-07-05,18:24,Casa Amarela,Yakisoba de Frango,1,35.00,41
+1083,2025-07-04,23:48,Parnamirim,Temaki Salmão,1,110.00,27
+1084,2025-07-02,21:29,Casa Forte,Hot Roll,1,85.00,45
+1085,2025-07-04,18:46,Graças,Combinado de Salmão,3,110.00,39
+1086,2025-07-01,19:58,Parnamirim,Combinado de Salmão,1,30.00,46
+1087,2025-07-03,18:07,Graças,Yakisoba de Frango,2,25.00,32
+1088,2025-07-04,20:19,Parnamirim,Combinado de Salmão,2,75.00,31
+1089,2025-07-04,18:17,Graças,Combinado Especial,1,110.00,20
+1090,2025-07-05,20:33,Casa Forte,Hot Roll,1,40.00,54
+1091,2025-07-01,19:00,Graças,Combinado Especial,1,40.00,33
+1092,2025-07-01,22:23,Parnamirim,Combinado Premium,4,110.00,32
+1093,2025-07-04,18:09,Casa Forte,Hot Roll,1,85.00,51
+1094,2025-07-02,18:04,Casa Forte,Yakisoba de Frango,2,110.00,43
+1095,2025-07-04,19:41,Casa Forte,Combinado Premium,1,30.00,41
+1096,2025-07-03,21:29,Parnamirim,Yakisoba de Carne,1,35.00,46
+1097,2025-07-02,22:48,Casa Forte,Hot Roll,1,25.00,54
+1098,2025-07-02,21:12,Graças,Combinado de Salmão,1,25.00,40
+1099,2025-07-03,20:50,Graças,Hot Roll,1,110.00,53
+1100,2025-07-05,20:47,Graças,Combinado Especial,2,75.00,15
+1101,2025-07-04,23:33,Casa Amarela,Hot Roll,1,110.00,49
+1102,2025-07-02,21:12,Graças,Combinado Premium,1,25.00,44
+1103,2025-07-04,18:41,Casa Forte,Combinado de Salmão,1,40.00,20
+1104,2025-07-03,18:47,Casa Forte,Temaki Salmão,1,30.00,62
+1105,2025-07-02,18:43,Graças,Hot Roll,2,75.00,15
+1106,2025-07-02,22:29,Casa Amarela,Yakisoba de Carne,3,75.00,54
+1107,2025-07-01,23:39,Casa Forte,Yakisoba de Frango,1,110.00,35
+1108,2025-07-01,18:29,Graças,Combinado Especial,1,110.00,32
+1109,2025-07-05,22:29,Casa Forte,Combinado Especial,1,110.00,18
+1110,2025-07-05,22:16,Graças,Hot Roll,2,25.00,43
+1111,2025-07-01,18:47,Casa Amarela,Hot Roll,1,35.00,21
+1112,2025-07-01,20:06,Parnamirim,Combinado Especial,1,75.00,28
+1113,2025-07-02,23:20,Casa Amarela,Hot Roll,3,75.00,37
+1114,2025-07-03,21:53,Parnamirim,Combinado de Salmão,2,30.00,75
+1115,2025-07-02,20:31,Parnamirim,Yakisoba de Carne,1,85.00,65
+1116,2025-07-01,18:17,Espinheiro,Hot Roll,1,110.00,53
+1117,2025-07-05,22:03,Casa Amarela,Combinado Especial,1,110.00,47
+1118,2025-07-02,19:02,Parnamirim,Combinado Especial,1,75.00,25
+1119,2025-07-01,19:21,Espinheiro,Hot Roll,1,35.00,61
+1120,2025-07-05,22:45,Casa Forte,Yakisoba de Carne,3,40.00,48
+1121,2025-07-02,20:48,Casa Amarela,Combinado Premium,2,35.00,32
+1122,2025-07-04,23:35,Parnamirim,Temaki Salmão,1,35.00,25
+1123,2025-07-01,18:47,Casa Amarela,Temaki Salmão,1,25.00,34
+1124,2025-07-03,18:03,Espinheiro,Combinado Especial,3,25.00,27
+1125,2025-07-02,21:14,Parnamirim,Temaki Salmão,1,40.00,65
+1126,2025-07-05,18:38,Casa Forte,Temaki Camarão,3,110.00,34
+1127,2025-07-05,20:35,Casa Amarela,Hot Roll,3,85.00,42
+1128,2025-07-03,23:17,Graças,Hot Roll,1,25.00,51
+1129,2025-07-05,19:22,Graças,Yakisoba de Frango,1,35.00,18
+1130,2025-07-03,18:38,Graças,Combinado Premium,1,25.00,19
+1131,2025-07-02,21:07,Graças,Yakisoba de Carne,1,35.00,41
+1132,2025-07-02,18:29,Parnamirim,Hot Roll,2,40.00,35
+1133,2025-07-04,21:25,Espinheiro,Combinado de Salmão,1,25.00,38
+1134,2025-07-01,20:33,Casa Amarela,Combinado Premium,2,40.00,36
+1135,2025-07-01,21:48,Graças,Combinado de Salmão,1,110.00,36
+1136,2025-07-04,20:06,Casa Amarela,Hot Roll,4,85.00,45
+1137,2025-07-01,22:36,Casa Forte,Yakisoba de Frango,1,30.00,42
+1138,2025-07-01,23:50,Casa Forte,Combinado Especial,3,40.00,34
+1139,2025-07-05,23:31,Casa Amarela,Combinado Especial,2,85.00,15
+1140,2025-07-04,20:11,Casa Forte,Hot Roll,1,30.00,50
+1141,2025-07-02,18:58,Graças,Combinado Especial,2,75.00,29
+1142,2025-07-05,18:26,Parnamirim,Combinado Especial,1,35.00,32
+1143,2025-07-04,21:40,Casa Amarela,Combinado de Salmão,1,110.00,17
+1144,2025-07-02,20:23,Casa Forte,Hot Roll,5,35.00,54
+1145,2025-07-01,21:19,Casa Forte,Hot Roll,2,110.00,50
+1146,2025-07-05,18:53,Parnamirim,Yakisoba de Carne,2,110.00,33
+1147,2025-07-01,21:45,Casa Forte,Hot Roll,3,35.00,45
+1148,2025-07-05,23:50,Graças,Temaki Salmão,1,110.00,40
+1149,2025-07-04,19:07,Casa Amarela,Combinado Especial,3,40.00,21
+1150,2025-07-03,21:15,Casa Amarela,Temaki Salmão,1,30.00,40
+1151,2025-07-04,23:34,Casa Amarela,Combinado Premium,1,25.00,24
+1152,2025-07-03,19:04,Casa Amarela,Combinado de Salmão,1,75.00,34
+1153,2025-07-03,19:29,Casa Forte,Yakisoba de Frango,1,40.00,64
+1154,2025-07-03,19:03,Espinheiro,Combinado Especial,3,110.00,33
+1155,2025-07-04,23:53,Casa Amarela,Hot Roll,1,30.00,46
+1156,2025-07-04,22:59,Graças,Combinado de Salmão,3,75.00,38
+1157,2025-07-04,19:53,Casa Forte,Combinado de Salmão,4,40.00,15
+1158,2025-07-05,22:41,Casa Amarela,Combinado Especial,2,75.00,57
+1159,2025-07-04,20:57,Casa Forte,Combinado de Salmão,1,40.00,15
+1160,2025-07-02,20:12,Casa Amarela,Combinado Especial,1,85.00,29
+1161,2025-07-05,22:22,Casa Forte,Combinado de Salmão,2,25.00,46
+1162,2025-07-05,22:27,Graças,Temaki Salmão,1,75.00,54
+1163,2025-07-03,20:25,Graças,Hot Roll,2,75.00,40
+1164,2025-07-03,18:15,Casa Forte,Hot Roll,1,35.00,33
+1165,2025-07-05,23:00,Graças,Combinado Especial,2,25.00,30
+1166,2025-07-04,21:19,Casa Amarela,Combinado Especial,1,85.00,48
+1167,2025-07-02,23:06,Casa Forte,Hot Roll,1,25.00,48
+1168,2025-07-05,19:23,Casa Amarela,Combinado Especial,1,35.00,44
+1169,2025-07-01,23:24,Parnamirim,Combinado Especial,4,40.00,30
+1170,2025-07-01,23:01,Parnamirim,Temaki Salmão,1,75.00,69
+1171,2025-07-01,20:12,Casa Forte,Hot Roll,2,30.00,27
+1172,2025-07-03,23:26,Graças,Combinado Especial,2,30.00,33
+1173,2025-07-01,21:13,Graças,Temaki Salmão,1,110.00,42
+1174,2025-07-02,23:46,Casa Amarela,Combinado Premium,1,30.00,43
+1175,2025-07-04,21:33,Graças,Combinado Especial,1,40.00,51
+1176,2025-07-03,23:16,Casa Forte,Hot Roll,1,25.00,45
+1177,2025-07-04,22:20,Graças,Yakisoba de Carne,1,75.00,26
+1178,2025-07-04,18:17,Casa Amarela,Hot Roll,3,25.00,71
+1179,2025-07-02,22:50,Casa Forte,Temaki Camarão,3,75.00,17
+1180,2025-07-03,22:49,Casa Amarela,Temaki Camarão,2,110.00,42
+1181,2025-07-05,23:36,Casa Amarela,Hot Roll,1,25.00,43
+1182,2025-07-02,22:17,Parnamirim,Temaki Salmão,1,35.00,58
+1183,2025-07-02,19:13,Casa Forte,Temaki Camarão,2,35.00,55
+1184,2025-07-03,22:39,Casa Forte,Yakisoba de Frango,1,85.00,29
+1185,2025-07-05,22:16,Espinheiro,Combinado Especial,3,25.00,22
+1186,2025-07-04,21:47,Parnamirim,Combinado de Salmão,2,75.00,43
+1187,2025-07-01,18:17,Graças,Hot Roll,2,85.00,41
+1188,2025-07-01,23:38,Parnamirim,Combinado de Salmão,3,40.00,44
+1189,2025-07-05,19:00,Graças,Combinado Especial,1,110.00,47
+1190,2025-07-03,20:59,Graças,Combinado Especial,2,25.00,35
+1191,2025-07-04,19:44,Casa Amarela,Temaki Salmão,1,35.00,15
+1192,2025-07-05,23:40,Parnamirim,Yakisoba de Frango,1,30.00,33
+1193,2025-07-01,20:30,Graças,Combinado de Salmão,3,75.00,41
+1194,2025-07-02,22:07,Casa Forte,Yakisoba de Frango,1,75.00,32
+1195,2025-07-04,20:39,Graças,Temaki Camarão,5,40.00,36
+1196,2025-07-01,19:00,Casa Amarela,Hot Roll,2,35.00,20
+1197,2025-07-02,21:30,Graças,Hot Roll,1,35.00,37
+1198,2025-07-01,22:13,Casa Amarela,Yakisoba de Frango,1,110.00,19
+1199,2025-07-02,19:47,Casa Amarela,Yakisoba de Frango,1,110.00,20
+1200,2025-07-01,18:26,Casa Forte,Hot Roll,4,40.00,56
+1201,2025-07-02,22:53,Casa Amarela,Temaki Camarão,1,40.00,43
+1202,2025-07-04,20:11,Graças,Temaki Salmão,3,75.00,47
+1203,2025-07-01,21:37,Graças,Combinado Especial,1,40.00,82
+1204,2025-07-02,18:57,Espinheiro,Temaki Salmão,3,30.00,28
+1205,2025-07-02,18:45,Casa Amarela,Temaki Salmão,2,110.00,48
+1206,2025-07-03,18:23,Graças,Combinado Premium,3,35.00,33
+1207,2025-07-04,19:46,Casa Forte,Temaki Salmão,2,25.00,59
+1208,2025-07-04,22:51,Casa Amarela,Combinado Premium,5,110.00,49
+1209,2025-07-04,21:28,Casa Forte,Temaki Salmão,1,30.00,28
+1210,2025-07-03,20:27,Graças,Temaki Salmão,1,110.00,44
+1211,2025-07-05,18:10,Espinheiro,Combinado Especial,2,75.00,25
+1212,2025-07-03,23:35,Graças,Combinado Especial,3,75.00,30
+1213,2025-07-05,21:02,Parnamirim,Combinado Especial,1,85.00,32
+1214,2025-07-01,21:43,Casa Amarela,Yakisoba de Frango,4,35.00,32
+1215,2025-07-04,19:12,Espinheiro,Yakisoba de Frango,3,85.00,27
+1216,2025-07-05,19:04,Casa Forte,Temaki Salmão,2,30.00,43
+1217,2025-07-03,20:51,Casa Amarela,Hot Roll,2,75.00,40
+1218,2025-07-02,20:52,Graças,Combinado de Salmão,3,25.00,56
+1219,2025-07-05,23:36,Casa Forte,Yakisoba de Carne,1,75.00,84
+1220,2025-07-04,19:05,Parnamirim,Combinado Especial,2,40.00,41
+1221,2025-07-04,23:44,Casa Amarela,Yakisoba de Frango,1,35.00,33
+1222,2025-07-02,21:23,Casa Forte,Combinado de Salmão,1,85.00,46
+1223,2025-07-02,22:21,Casa Forte,Combinado de Salmão,2,40.00,40
+1224,2025-07-03,20:16,Casa Amarela,Combinado Especial,1,35.00,23
+1225,2025-07-02,22:09,Casa Forte,Temaki Salmão,3,85.00,28
+1226,2025-07-02,18:27,Parnamirim,Yakisoba de Frango,3,30.00,54
+1227,2025-07-02,18:26,Espinheiro,Combinado de Salmão,3,75.00,17
+1228,2025-07-05,23:50,Casa Forte,Hot Roll,3,25.00,48
+1229,2025-07-04,23:49,Graças,Temaki Salmão,1,35.00,39
+1230,2025-07-04,18:29,Casa Amarela,Combinado Premium,2,30.00,40
+1231,2025-07-04,21:38,Casa Forte,Yakisoba de Frango,2,40.00,48
+1232,2025-07-02,19:54,Graças,Temaki Salmão,2,30.00,26
+1233,2025-07-02,21:14,Casa Amarela,Hot Roll,1,40.00,53
+1234,2025-07-04,18:31,Graças,Combinado de Salmão,1,25.00,42
+1235,2025-07-02,23:24,Parnamirim,Temaki Salmão,1,40.00,59
+1236,2025-07-01,22:47,Graças,Temaki Salmão,2,25.00,55
+1237,2025-07-01,22:33,Casa Forte,Combinado de Salmão,1,40.00,56
+1238,2025-07-03,20:00,Casa Amarela,Temaki Camarão,1,35.00,46
+1239,2025-07-02,23:27,Casa Forte,Hot Roll,1,85.00,46
+1240,2025-07-04,21:04,Espinheiro,Hot Roll,1,40.00,41
+1241,2025-07-02,21:04,Casa Forte,Yakisoba de Frango,1,75.00,78
+1242,2025-07-03,19:41,Parnamirim,Combinado de Salmão,3,85.00,42
+1243,2025-07-01,18:01,Casa Amarela,Yakisoba de Frango,1,30.00,26
+1244,2025-07-01,20:24,Casa Forte,Combinado Especial,1,75.00,36
+1245,2025-07-04,18:10,Casa Forte,Temaki Salmão,1,85.00,25
+1246,2025-07-01,19:17,Casa Forte,Combinado de Salmão,4,85.00,18
+1247,2025-07-02,21:09,Casa Forte,Temaki Camarão,1,75.00,50
+1248,2025-07-02,23:26,Casa Amarela,Hot Roll,1,25.00,43
+1249,2025-07-05,22:56,Casa Forte,Temaki Salmão,2,40.00,57
+1250,2025-07-05,20:12,Casa Amarela,Combinado de Salmão,1,35.00,77
+1251,2025-07-01,21:07,Casa Forte,Temaki Salmão,5,35.00,52
+1252,2025-07-01,19:06,Casa Forte,Hot Roll,2,35.00,40
+1253,2025-07-01,22:16,Graças,Temaki Camarão,1,25.00,79
+1254,2025-07-02,18:13,Casa Amarela,Temaki Salmão,2,85.00,16
+1255,2025-07-03,18:32,Graças,Temaki Camarão,1,25.00,62
+1256,2025-07-04,22:26,Casa Forte,Hot Roll,2,25.00,30
+1257,2025-07-05,22:29,Graças,Combinado Especial,1,35.00,40
+1258,2025-07-05,23:47,Graças,Yakisoba de Carne,5,25.00,37
+1259,2025-07-03,18:18,Parnamirim,Temaki Salmão,1,85.00,23
+1260,2025-07-01,20:41,Parnamirim,Hot Roll,1,75.00,48
+1261,2025-07-04,20:35,Casa Forte,Hot Roll,1,35.00,40
+1262,2025-07-04,22:14,Graças,Combinado Premium,2,85.00,22
+1263,2025-07-01,21:01,Graças,Temaki Salmão,4,75.00,44
+1264,2025-07-04,22:47,Espinheiro,Temaki Camarão,1,75.00,61
+1265,2025-07-04,20:51,Graças,Combinado Especial,4,25.00,46
+1266,2025-07-03,23:05,Casa Forte,Yakisoba de Frango,2,75.00,49
+1267,2025-07-01,20:30,Graças,Combinado de Salmão,2,35.00,48
+1268,2025-07-03,22:02,Graças,Combinado de Salmão,3,75.00,28
+1269,2025-07-03,20:20,Graças,Combinado de Salmão,3,85.00,37
+1270,2025-07-01,23:36,Casa Forte,Hot Roll,2,110.00,25
+1271,2025-07-05,18:14,Casa Forte,Temaki Salmão,2,110.00,32
+1272,2025-07-04,22:26,Espinheiro,Yakisoba de Carne,3,30.00,44
+1273,2025-07-04,18:59,Casa Forte,Temaki Salmão,4,40.00,40
+1274,2025-07-05,22:22,Graças,Combinado Especial,2,35.00,32
+1275,2025-07-05,19:25,Parnamirim,Combinado Especial,1,40.00,51
+1276,2025-07-04,22:30,Graças,Hot Roll,1,110.00,46
+1277,2025-07-01,23:05,Parnamirim,Yakisoba de Carne,1,85.00,44
+1278,2025-07-02,22:39,Casa Forte,Yakisoba de Frango,4,85.00,23
+1279,2025-07-03,23:31,Casa Amarela,Temaki Salmão,1,75.00,21
+1280,2025-07-02,19:34,Parnamirim,Hot Roll,4,40.00,39
+1281,2025-07-02,22:49,Graças,Temaki Salmão,2,85.00,70
+1282,2025-07-04,23:06,Parnamirim,Yakisoba de Frango,2,85.00,31
+1283,2025-07-02,18:31,Parnamirim,Temaki Salmão,1,110.00,43
+1284,2025-07-03,19:52,Espinheiro,Combinado Premium,1,110.00,39
+1285,2025-07-04,20:25,Parnamirim,Hot Roll,2,75.00,16
+1286,2025-07-01,21:33,Graças,Yakisoba de Carne,1,40.00,28
+1287,2025-07-05,23:27,Parnamirim,Combinado de Salmão,1,30.00,15
+1288,2025-07-02,18:16,Parnamirim,Temaki Salmão,3,25.00,43
+1289,2025-07-05,19:55,Casa Forte,Combinado Premium,4,40.00,29
+1290,2025-07-01,18:58,Graças,Hot Roll,1,110.00,27
+1291,2025-07-02,22:10,Parnamirim,Hot Roll,1,75.00,53
+1292,2025-07-04,18:43,Parnamirim,Yakisoba de Frango,2,35.00,49
+1293,2025-07-05,23:40,Graças,Yakisoba de Carne,4,75.00,36
+1294,2025-07-02,18:06,Espinheiro,Yakisoba de Frango,1,75.00,16
+1295,2025-07-01,23:35,Espinheiro,Yakisoba de Frango,1,35.00,51
+1296,2025-07-02,20:06,Graças,Combinado Especial,4,25.00,15
+1297,2025-07-01,19:16,Graças,Hot Roll,1,40.00,53
+1298,2025-07-05,18:59,Graças,Combinado de Salmão,1,85.00,47
+1299,2025-07-05,21:44,Espinheiro,Temaki Salmão,1,25.00,55
+1300,2025-07-05,22:20,Casa Amarela,Hot Roll,1,75.00,15
+1301,2025-07-05,22:41,Casa Forte,Hot Roll,2,30.00,72
+1302,2025-07-02,21:29,Casa Forte,Hot Roll,1,30.00,65
+1303,2025-07-01,21:58,Casa Forte,Hot Roll,2,25.00,30
+1304,2025-07-02,18:57,Parnamirim,Combinado de Salmão,1,35.00,45
+1305,2025-07-04,23:14,Graças,Hot Roll,1,25.00,47
+1306,2025-07-02,21:31,Parnamirim,Hot Roll,3,35.00,21
+1307,2025-07-01,21:51,Graças,Combinado Especial,2,25.00,24
+1308,2025-07-04,18:42,Casa Forte,Temaki Camarão,1,40.00,40
+1309,2025-07-04,22:43,Espinheiro,Hot Roll,4,25.00,39
+1310,2025-07-03,23:00,Parnamirim,Yakisoba de Frango,1,40.00,43
+1311,2025-07-05,19:01,Casa Amarela,Temaki Salmão,1,110.00,55
+1312,2025-07-01,23:59,Graças,Temaki Salmão,1,75.00,49
+1313,2025-07-05,20:07,Parnamirim,Combinado Especial,1,25.00,21
+1314,2025-07-05,23:22,Graças,Combinado Especial,1,30.00,15
+1315,2025-07-05,23:03,Graças,Hot Roll,1,110.00,28
+1316,2025-07-05,18:10,Graças,Temaki Salmão,3,75.00,54
+1317,2025-07-02,23:42,Casa Forte,Hot Roll,1,85.00,57
+1318,2025-07-05,20:29,Graças,Combinado de Salmão,1,35.00,75
+1319,2025-07-02,18:46,Graças,Temaki Salmão,2,25.00,44
+1320,2025-07-03,21:43,Espinheiro,Combinado de Salmão,1,75.00,30
+1321,2025-07-04,18:40,Parnamirim,Hot Roll,2,25.00,33
+1322,2025-07-01,22:03,Espinheiro,Yakisoba de Carne,1,40.00,46
+1323,2025-07-04,18:03,Casa Forte,Combinado de Salmão,1,110.00,58
+1324,2025-07-01,21:12,Graças,Combinado Premium,5,40.00,44
+1325,2025-07-04,19:26,Graças,Hot Roll,3,110.00,39
+1326,2025-07-03,20:35,Graças,Hot Roll,2,35.00,47
+1327,2025-07-03,21:39,Casa Forte,Hot Roll,1,30.00,64
+1328,2025-07-04,18:01,Graças,Hot Roll,1,75.00,42
+1329,2025-07-03,19:17,Casa Amarela,Temaki Salmão,4,85.00,34
+1330,2025-07-05,22:44,Casa Forte,Yakisoba de Frango,2,75.00,38
+1331,2025-07-03,19:08,Parnamirim,Combinado de Salmão,1,75.00,44
+1332,2025-07-04,19:31,Parnamirim,Temaki Salmão,1,35.00,29
+1333,2025-07-05,19:26,Casa Amarela,Temaki Salmão,2,75.00,15
+1334,2025-07-03,21:26,Casa Forte,Hot Roll,1,110.00,27
+1335,2025-07-05,22:57,Casa Forte,Hot Roll,3,85.00,52
+1336,2025-07-05,21:39,Graças,Temaki Camarão,1,35.00,52
+1337,2025-07-02,18:05,Casa Forte,Temaki Salmão,2,25.00,21
+1338,2025-07-04,20:55,Casa Forte,Yakisoba de Frango,1,110.00,21
+1339,2025-07-02,19:24,Parnamirim,Hot Roll,2,85.00,52
+1340,2025-07-04,20:35,Graças,Hot Roll,1,75.00,63
+1341,2025-07-03,20:36,Graças,Combinado de Salmão,1,85.00,28
+1342,2025-07-03,22:07,Casa Forte,Combinado de Salmão,1,25.00,35
+1343,2025-07-05,19:06,Casa Amarela,Temaki Salmão,1,75.00,67
+1344,2025-07-01,21:45,Graças,Hot Roll,4,75.00,45
+1345,2025-07-03,21:46,Casa Amarela,Temaki Salmão,1,110.00,42
+1346,2025-07-05,19:21,Casa Amarela,Yakisoba de Carne,1,35.00,47
+1347,2025-07-05,18:00,Graças,Yakisoba de Frango,3,40.00,64
+1348,2025-07-02,21:30,Casa Forte,Combinado Especial,1,85.00,38
+1349,2025-07-05,22:42,Graças,Combinado Especial,1,75.00,54
+1350,2025-07-03,18:44,Casa Forte,Temaki Camarão,4,30.00,16
+1351,2025-07-02,18:24,Graças,Combinado de Salmão,1,40.00,23
+1352,2025-07-04,22:29,Parnamirim,Combinado de Salmão,3,40.00,46
+1353,2025-07-01,19:49,Parnamirim,Combinado de Salmão,1,30.00,56
+1354,2025-07-02,21:20,Graças,Hot Roll,2,25.00,28
+1355,2025-07-02,21:50,Casa Forte,Hot Roll,1,85.00,30
+1356,2025-07-04,19:08,Espinheiro,Temaki Salmão,1,40.00,61
+1357,2025-07-04,20:32,Graças,Temaki Salmão,3,25.00,38
+1358,2025-07-05,23:38,Espinheiro,Combinado Especial,1,35.00,44
+1359,2025-07-02,20:35,Casa Forte,Temaki Salmão,3,35.00,45
+1360,2025-07-05,22:27,Graças,Combinado Premium,2,30.00,58
+1361,2025-07-04,20:19,Casa Amarela,Temaki Salmão,4,110.00,18
+1362,2025-07-01,19:18,Casa Amarela,Combinado de Salmão,2,75.00,47
+1363,2025-07-02,19:19,Graças,Combinado Premium,5,75.00,48
+1364,2025-07-02,19:06,Casa Forte,Combinado Especial,1,25.00,27
+1365,2025-07-02,22:26,Casa Forte,Combinado de Salmão,2,35.00,46
+1366,2025-07-05,21:10,Graças,Temaki Camarão,1,85.00,28
+1367,2025-07-05,18:21,Espinheiro,Yakisoba de Carne,1,75.00,56
+1368,2025-07-04,20:18,Casa Forte,Combinado Especial,1,30.00,26
+1369,2025-07-04,21:24,Parnamirim,Combinado Especial,4,25.00,24
+1370,2025-07-04,20:17,Parnamirim,Combinado Especial,3,75.00,48
+1371,2025-07-02,19:56,Casa Amarela,Yakisoba de Carne,1,40.00,54
+1372,2025-07-03,18:24,Casa Amarela,Yakisoba de Frango,3,85.00,25
+1373,2025-07-04,21:53,Espinheiro,Combinado Especial,1,110.00,24
+1374,2025-07-01,19:47,Espinheiro,Temaki Camarão,1,75.00,15
+1375,2025-07-02,18:02,Parnamirim,Combinado Especial,2,35.00,44
+1376,2025-07-02,23:11,Espinheiro,Hot Roll,1,85.00,37
+1377,2025-07-05,18:15,Graças,Temaki Salmão,2,110.00,42
+1378,2025-07-05,19:17,Espinheiro,Combinado Especial,1,40.00,56
+1379,2025-07-04,22:38,Parnamirim,Temaki Salmão,1,35.00,46
+1380,2025-07-02,19:29,Casa Forte,Hot Roll,3,85.00,35
+1381,2025-07-02,18:03,Graças,Combinado de Salmão,1,25.00,36
+1382,2025-07-04,19:14,Espinheiro,Temaki Camarão,4,110.00,25
+1383,2025-07-03,23:21,Parnamirim,Combinado de Salmão,1,35.00,32
+1384,2025-07-04,19:01,Casa Forte,Combinado Especial,5,30.00,36
+1385,2025-07-04,21:05,Espinheiro,Combinado Especial,1,85.00,51
+1386,2025-07-02,21:23,Graças,Yakisoba de Frango,3,85.00,34
+1387,2025-07-02,22:35,Graças,Hot Roll,2,110.00,15
+1388,2025-07-05,18:57,Graças,Temaki Salmão,2,75.00,44
+1389,2025-07-05,23:00,Parnamirim,Combinado de Salmão,1,30.00,23
+1390,2025-07-02,22:23,Parnamirim,Temaki Camarão,1,25.00,61
+1391,2025-07-03,20:17,Graças,Temaki Camarão,1,30.00,31
+1392,2025-07-03,21:41,Espinheiro,Combinado Especial,1,110.00,50
+1393,2025-07-02,20:45,Parnamirim,Combinado de Salmão,2,40.00,28
+1394,2025-07-04,21:20,Graças,Combinado Premium,1,35.00,29
+1395,2025-07-02,18:35,Parnamirim,Temaki Salmão,1,85.00,40
+1396,2025-07-01,20:42,Parnamirim,Yakisoba de Carne,2,75.00,49
+1397,2025-07-04,22:42,Casa Amarela,Combinado de Salmão,1,25.00,25
+1398,2025-07-04,21:56,Casa Forte,Combinado Premium,3,35.00,40
+1399,2025-07-02,23:18,Casa Amarela,Temaki Camarão,1,85.00,38
+1400,2025-07-04,21:21,Casa Amarela,Yakisoba de Frango,1,40.00,36
+1401,2025-07-01,18:37,Casa Amarela,Combinado Especial,1,25.00,27
+1402,2025-07-02,22:28,Parnamirim,Yakisoba de Carne,1,35.00,47
+1403,2025-07-01,23:25,Parnamirim,Combinado Especial,1,110.00,38
+1404,2025-07-04,23:46,Parnamirim,Yakisoba de Frango,3,40.00,32
+1405,2025-07-05,23:38,Graças,Temaki Salmão,2,75.00,22
+1406,2025-07-03,19:43,Graças,Hot Roll,1,40.00,69
+1407,2025-07-03,20:33,Parnamirim,Hot Roll,5,35.00,40
+1408,2025-07-03,21:58,Parnamirim,Temaki Salmão,3,25.00,40
+1409,2025-07-01,21:11,Casa Amarela,Temaki Salmão,5,110.00,32
+1410,2025-07-03,23:41,Casa Forte,Combinado de Salmão,2,30.00,24
+1411,2025-07-05,23:19,Parnamirim,Yakisoba de Carne,2,30.00,19
+1412,2025-07-02,19:04,Casa Forte,Hot Roll,1,40.00,37
+1413,2025-07-03,23:24,Graças,Temaki Salmão,1,110.00,48
+1414,2025-07-01,22:59,Graças,Combinado Especial,1,85.00,44
+1415,2025-07-04,19:01,Graças,Hot Roll,3,25.00,44
+1416,2025-07-02,23:07,Casa Forte,Temaki Salmão,1,30.00,30
+1417,2025-07-03,23:29,Casa Forte,Combinado de Salmão,1,30.00,37
+1418,2025-07-02,20:47,Espinheiro,Combinado Especial,3,25.00,78
+1419,2025-07-03,22:28,Casa Forte,Temaki Salmão,4,25.00,44
+1420,2025-07-04,23:24,Casa Amarela,Combinado Especial,3,85.00,20
+1421,2025-07-02,18:12,Casa Forte,Temaki Salmão,4,110.00,52
+1422,2025-07-04,22:07,Graças,Yakisoba de Carne,2,85.00,64
+1423,2025-07-04,18:07,Casa Amarela,Combinado de Salmão,1,40.00,50
+1424,2025-07-05,23:06,Casa Amarela,Combinado Especial,1,35.00,68
+1425,2025-07-01,20:31,Graças,Yakisoba de Carne,1,110.00,49
+1426,2025-07-01,22:40,Casa Forte,Temaki Salmão,1,35.00,28
+1427,2025-07-01,19:18,Parnamirim,Hot Roll,1,85.00,52
+1428,2025-07-04,18:11,Espinheiro,Hot Roll,4,40.00,39
+1429,2025-07-04,23:12,Casa Forte,Combinado de Salmão,1,30.00,36
+1430,2025-07-05,22:34,Casa Forte,Combinado de Salmão,3,25.00,57
+1431,2025-07-03,22:21,Parnamirim,Temaki Camarão,1,30.00,53
+1432,2025-07-05,22:17,Graças,Temaki Salmão,1,30.00,34
+1433,2025-07-02,19:39,Casa Amarela,Temaki Salmão,4,110.00,32
+1434,2025-07-04,23:39,Casa Amarela,Temaki Salmão,4,35.00,58
+1435,2025-07-01,21:19,Graças,Yakisoba de Carne,3,35.00,48
+1436,2025-07-01,22:17,Parnamirim,Hot Roll,2,30.00,15
+1437,2025-07-04,20:40,Graças,Yakisoba de Carne,4,40.00,33
+1438,2025-07-04,23:15,Espinheiro,Temaki Salmão,1,35.00,38
+1439,2025-07-05,18:23,Casa Forte,Combinado de Salmão,1,25.00,15
+1440,2025-07-05,23:59,Casa Forte,Temaki Camarão,4,35.00,29
+1441,2025-07-05,21:53,Casa Forte,Yakisoba de Carne,2,30.00,51
+1442,2025-07-04,19:33,Casa Forte,Yakisoba de Carne,3,40.00,55
+1443,2025-07-05,19:56,Graças,Hot Roll,2,30.00,54
+1444,2025-07-01,19:14,Casa Forte,Combinado de Salmão,1,25.00,47
+1445,2025-07-01,22:45,Casa Forte,Combinado Especial,4,110.00,35
+1446,2025-07-02,18:35,Casa Forte,Yakisoba de Frango,1,40.00,46
+1447,2025-07-01,19:32,Casa Amarela,Combinado de Salmão,5,30.00,64
+1448,2025-07-02,23:36,Casa Forte,Combinado de Salmão,1,25.00,20
+1449,2025-07-02,18:38,Graças,Combinado Premium,1,40.00,53
+1450,2025-07-04,19:08,Casa Forte,Temaki Camarão,1,110.00,32
+1451,2025-07-03,20:01,Casa Forte,Combinado de Salmão,1,40.00,90
+1452,2025-07-04,19:22,Parnamirim,Yakisoba de Frango,2,25.00,35
+1453,2025-07-01,18:05,Casa Forte,Combinado Especial,1,40.00,50
+1454,2025-07-02,23:12,Casa Forte,Yakisoba de Frango,3,30.00,19
+1455,2025-07-03,22:41,Graças,Combinado de Salmão,1,25.00,54
+1456,2025-07-04,18:02,Casa Forte,Hot Roll,2,85.00,42
+1457,2025-07-04,22:28,Graças,Temaki Salmão,1,75.00,45
+1458,2025-07-03,20:24,Casa Amarela,Combinado de Salmão,2,40.00,44
+1459,2025-07-03,23:17,Parnamirim,Combinado Premium,3,110.00,15
+1460,2025-07-02,20:23,Casa Forte,Combinado Premium,4,35.00,25
+1461,2025-07-04,22:23,Graças,Temaki Salmão,1,75.00,30
+1462,2025-07-02,21:50,Parnamirim,Hot Roll,1,30.00,34
+1463,2025-07-01,20:53,Parnamirim,Temaki Salmão,1,110.00,47
+1464,2025-07-02,22:14,Espinheiro,Combinado Especial,1,30.00,15
+1465,2025-07-02,21:38,Parnamirim,Yakisoba de Carne,2,25.00,57
+1466,2025-07-05,20:30,Espinheiro,Hot Roll,3,40.00,46
+1467,2025-07-04,20:00,Casa Amarela,Combinado Premium,4,25.00,37
+1468,2025-07-05,19:11,Graças,Combinado de Salmão,1,75.00,42
+1469,2025-07-04,19:05,Casa Amarela,Temaki Camarão,1,110.00,73
+1470,2025-07-03,21:08,Parnamirim,Hot Roll,2,30.00,15
+1471,2025-07-03,19:49,Casa Forte,Hot Roll,2,35.00,49
+1472,2025-07-02,20:45,Graças,Combinado Especial,1,40.00,59
+1473,2025-07-01,21:29,Casa Amarela,Combinado Especial,4,75.00,45
+1474,2025-07-04,19:56,Graças,Hot Roll,4,110.00,55
+1475,2025-07-02,19:28,Casa Amarela,Temaki Salmão,3,30.00,33
+1476,2025-07-01,19:24,Casa Amarela,Temaki Salmão,3,25.00,42
+1477,2025-07-05,18:36,Casa Forte,Hot Roll,1,30.00,28
+1478,2025-07-01,22:18,Parnamirim,Combinado de Salmão,1,40.00,31
+1479,2025-07-01,21:07,Parnamirim,Yakisoba de Frango,3,75.00,63
+1480,2025-07-02,20:53,Espinheiro,Yakisoba de Frango,1,75.00,57
+1481,2025-07-05,23:13,Casa Forte,Temaki Camarão,1,110.00,57
+1482,2025-07-03,19:17,Parnamirim,Combinado Especial,1,110.00,41
+1483,2025-07-05,22:49,Parnamirim,Combinado Premium,5,35.00,24
+1484,2025-07-05,18:59,Graças,Combinado de Salmão,1,30.00,45
+1485,2025-07-03,18:44,Parnamirim,Combinado Especial,2,25.00,41
+1486,2025-07-03,23:30,Casa Forte,Combinado de Salmão,3,35.00,15
+1487,2025-07-04,23:49,Casa Amarela,Temaki Camarão,3,30.00,76
+1488,2025-07-02,21:51,Casa Forte,Combinado de Salmão,3,35.00,39
+1489,2025-07-01,19:26,Casa Amarela,Temaki Salmão,1,75.00,58
+1490,2025-07-05,20:46,Graças,Combinado Especial,1,85.00,24
+1491,2025-07-03,23:20,Casa Forte,Combinado Premium,1,35.00,22
+1492,2025-07-03,19:42,Graças,Yakisoba de Carne,2,40.00,50
+1493,2025-07-04,22:21,Graças,Combinado Especial,1,30.00,15
+1494,2025-07-05,18:54,Casa Forte,Combinado de Salmão,1,35.00,41
+1495,2025-07-01,23:12,Casa Amarela,Temaki Salmão,2,75.00,39
+1496,2025-07-01,22:25,Graças,Hot Roll,1,30.00,56
+1497,2025-07-01,20:47,Casa Amarela,Combinado Especial,2,85.00,44
+1498,2025-07-05,22:48,Graças,Combinado de Salmão,2,85.00,44
+1499,2025-07-02,20:44,Casa Amarela,Yakisoba de Carne,2,85.00,47
+1500,2025-07-04,20:15,Casa Forte,Yakisoba de Frango,1,75.00,33
